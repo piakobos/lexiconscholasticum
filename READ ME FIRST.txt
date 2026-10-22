@@ -1,0 +1,72 @@
+NEW: Vulgate, Septuagint, Greek New Testament and 42 Perseus Latin works/collections. Open Reading and search a title or author. Scripture has book/chapter menus and verse numbers. Restart the app to load the new library.
+
+NEW: Select reading text to save a highlight and optional note. Use My highlights to review, search, edit or return to saved passages. Restart the app to load this update. Highlights and notes stay in your personal library and are not included in sharing ZIPs.
+
+NEW: Perfect-passive verb charts and saved Wiktionary noun declensions.
+Restart the app to load these changes.
+
+NEW: Search this work searches the full text of an open book in either edition.
+The packages contain all 1,016 current reading entries, including Scripture, 42 new Perseus Latin works/collections and the 15 previously local-only books.
+See Library contents.json for the complete list.
+
+LEXICON SCHOLASTICUM - WINDOWS AND MAC
+Updated 20 October 2026
+
+Books now appear in compact rows. Filter by author or language; use Details
+for descriptions and folder controls. Reading also has Warm / White paper,
+Focus view and a compact word pane. Use Dark / Light in the top navigation
+on any page in either edition. The choice is shared and remembered.
+Study pages include subtle illuminated manuscript ornaments and refined typography.
+Restart the app to load the updated interface.
+
+One app includes both Lexicon Scholasticum and Romantica Lingua.
+Click the L at the upper left to switch to Romantica; click R to return.
+Romantica contains 621 shared reading entries, including 32 Spanish books and
+collections by Santa Teresa de Ávila and San Juan de la Cruz. Select Spanish
+and search Teresa or Juan de la Cruz. Books, poems, letters and minor works
+are included, with searchable chapter navigation. Historical editions are
+labelled and may retain scan/OCR errors.
+Lexicon includes 129 shared Latin entries, with 104 additional Latin Library
+works and all nine Ovid works available from that collection.
+The Greek collection now has 205 entries, including 167 new texts:
+Demosthenes, the other Attic orators, Thucydides, Theocritus and Theophrastus.
+Find these in Greek · Classics; search by author or English title.
+Use Book or part, Section or poem, and Find a section to navigate.
+Original chapter boundaries are restored for 20 existing classical editions.
+Other works use available headings and stable reading sections.
+Passage numbers refer to reading chunks; source verse numbers remain in the text.
+
+You only need the ZIP for the recipient's computer. Copy the ZIP to the recipient’s computer before extracting it. Do not run the app inside the ZIP.
+
+WINDOWS
+Extract Lexicon Scholasticum Windows.zip. Keep the entire extracted
+Lexicon Scholasticum folder together and open Lexicon Scholasticum.exe.
+Microsoft Edge WebView2 Runtime is required; it is normally present on
+Windows. No separate Python installation is needed.
+
+MAC
+Extract Lexicon Scholasticum Mac.zip. Move Lexicon Scholasticum.app into
+Applications and open it. This contains the same bundled runtime setup
+used by the previous working Mac package, for Intel and Apple Silicon.
+No separate Python installation is needed. This is an unsigned app;
+if macOS blocks it, use Privacy & Security > Open Anyway after attempting
+to open it. The package was checked on Windows, not launch-tested on a Mac.
+
+UPDATES
+Close the old app before replacing it. On Mac, replace the app in
+Applications. On Windows, replace the entire app folder with the newly
+extracted folder. Personal libraries and progress are kept separately
+in the user's account; do not delete those data folders.
+
+The ZIPs include shared dictionaries, reading texts, fonts and source
+credits. They include the explicitly requested reading additions, without saved bookmarks or progress.
+First launch may take a few minutes to prepare the dictionaries/runtime.
+
+READING DICTIONARY
+Rest the pointer on a word for about 0.4 seconds to open its pane.
+Click outside the pane, click X, or press Escape to close it.
+
+SHA256SUMS.txt records the verified package hashes.
+
+A separate portable delivery is prepared at D:\Lexicon Portable - 2026-10-17.
+See START HERE.txt there for running Windows or sharing with Windows/Mac users.

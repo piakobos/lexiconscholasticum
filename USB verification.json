@@ -1,0 +1,30 @@
+{
+  "verified_at": "2026-10-15T22:07:27",
+  "files": [
+    {
+      "file": "Lexicon Scholasticum/Lexicon Scholasticum Windows.zip",
+      "bytes": 1753641670,
+      "sha256": "ac1539d3cff3d25fa33f1e6d4bb7ee1e66b0fe14e3cc93aad746af642dd369ed"
+    },
+    {
+      "file": "Lexicon Scholasticum/Lexicon Scholasticum Mac.zip",
+      "bytes": 1794504940,
+      "sha256": "27ec3a59a9cb3e87b9e24cb4238dd8e246309aadc47b9bf3c2490cb1012ee313"
+    },
+    {
+      "file": "Scriptorium/Scriptorium Setup.exe",
+      "bytes": 379799174,
+      "sha256": "f556bb0bcd04f4557df9378bc40d28f5f309da4b977f79923cb2cf47869efd82"
+    },
+    {
+      "file": "Scriptorium/Scriptorium Mac.zip",
+      "bytes": 415000416,
+      "sha256": "61ef31ff6917eed9f9dcb673bb5705a575ff8f0fefb0d36e885551f8074d2893"
+    }
+  ],
+  "old_usb_releases_archived_to": "C:\\Users\\James\\Documents\\USB previous app releases 2026-10-15",
+  "lexicon_release": "2026.10.15.5",
+  "scriptorium_release": "2026.10.15.4",
+  "windows_fresh_launch": "passed",
+  "mac_validation": "archive structure and bundled runtimes; not native launch"
+}

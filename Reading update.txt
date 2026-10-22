@@ -1,0 +1,125 @@
+SCRIPTURE AND PERSEUS LIBRARY — 20 OCTOBER 2026 — 2026.10.20.2
+
+45 new shelf entries: the 73-book Clementine Vulgate, Swete's Greek Septuagint corpus (including deuterocanon, clearly labelled variant versions and appendices), the 27-book Westcott–Hort Greek New Testament, and 42 Latin works/collections from Perseus. Both delivery packages now include 395 Lexicon entries and 621 Romantica entries: 1,016 in total.
+
+In Reading, search Vulgate, Septuagint or New Testament. Choose a biblical book from the first contents menu, then a chapter from the second. Verse numbers remain in the text. Search this work, resting-hover definitions, highlights, notes and My highlights work as before. Restart the app to load the new library.
+
+Latin additions: 20 Plautus plays; Nepos's 25 surviving biographies grouped together; Suetonius's Twelve Caesars; Livy's surviving books and ancient summaries; Tacitus's Annals and Histories; Pliny the Elder's Natural History; Vitruvius's On Architecture; Aulus Gellius's Attic Nights; Lucan's Pharsalia; Minucius Felix's Octavius; 18 selected letters of Jerome; Tertullian's Apologeticum and De Spectaculis; nine Prudentius works.
+
+All main text supplied by the chosen editions is retained. Lost ancient passages are not reconstructed. Jerome is explicitly a selection. The Septuagint includes variant Daniel and Tobit texts, surviving Greek Enoch and other labelled appendices. Empty verse slots in the Swete and Westcott–Hort datasets are marked explicitly, preserving the source numbering.
+
+Exact editions, coverage, source checksums, credits and licences are included in the app's licenses/Scripture and Perseus sources.txt, scripture-perseus-report.json and Scripture and Perseus source texts.zip. The source archive includes the original texts and the complete Septuagint adaptation recipe. Existing texts, saved progress, highlights and notes are preserved; private data is excluded from sharing.
+
+PREVIOUS UPDATE
+
+SAVED READING HIGHLIGHTS AND NOTES — 20 OCTOBER 2026 — 2026.10.20.1
+
+In either reading edition, select a passage and choose Highlight & note (or Highlight selection). Add an optional note and save. Your highlight remains when you close and reopen the app. Click a saved highlight to edit its note.
+
+Choose My highlights on the bookshelf or above the reading text to review all highlights in that edition. Search passages, notes, book titles or authors; choose This work only to narrow the list. Go to passage returns to the section and scrolls to the highlight. Edit note changes the note; Delete asks for a second click before removing it. Overlapping highlights are supported.
+
+Works with built-in books, uploaded works and Lexicon reference books. Select within a single reading section (up to 10,000 characters); notes allow 20,000 characters. If an updated text can no longer be matched reliably, the saved quote and note remain available in My highlights.
+
+Highlights and notes are saved in your personal library on this computer, separately for Lexicon and Romantica. They are preserved by app updates and excluded from sharing packages. Existing text search, word lookups, themes and reading progress are retained. Restart the app to load the update.
+
+PREVIOUS UPDATE
+
+WIKTIONARY VERB AND NOUN CHARTS — 18 OCTOBER 2026 — 2026.10.18.2
+
+Latin verb charts now expand the saved participle + sum instructions into all supplied perfect, pluperfect and future-perfect indicative rows and perfect/pluperfect subjunctive rows. Choose Masculine, Feminine or Neuter for compound participle agreement. Deponent compounds retain the source's active classification; unavailable passive forms are not invented. Complex multiword formation instructions remain verbatim under Other supplied forms.
+
+Wiktionary noun entries now show their saved declensions by case and number, including Greek dual forms where supplied. This includes 16,801 Latin and 8,784 Greek noun paradigms, plus 13,292 proper-name paradigms. Inflected noun entries link back to the appropriate noun table without mixing noun and verb homographs. Charts work offline and keep the existing light/dark appearance.
+
+The current reading library and all previous features are retained. Restart Lexicon Scholasticum to load the update.
+
+PREVIOUS UPDATE
+
+FULL-TEXT SEARCH AND COMPLETE READING DELIVERY — 18 OCTOBER 2026 — 2026.10.18.1
+
+Open any work in either edition and use Search this work. Searches cover the full work, not only the current section. Case and accents are ignored; phrase matches can cross line breaks. Results show context, jump to the matching section and highlight the text. More matches loads the next 50. Clear removes the search. Grammar references are searchable too; existing hover lookups remain available in reading works.
+
+Both delivery packages now include all 350 Lexicon works and 621 Romantica works (971 total). The 15 formerly local-only additions include Summa philosophica I-III, De Religione et Ecclesia, Consolatio Philosophiae, A New Latin Syntax, Summa Theologiae, Summa contra Gentiles, the Metaphysics and Ethics commentaries, Opuscula, In Neoplatonicos et Boethium, Gildersleeve, Smyth and Conybeare & Stock. Goodwin was already included.
+
+These are book-text exports explicitly requested for sharing. No personal database, saved progress, dictionary bookmarks or later private uploads is included. New installations seed the books automatically; existing books and progress are preserved on upgrade. Library contents.json lists every included work.
+
+PREVIOUS UPDATE
+
+ILLUMINATED APPEARANCE — 17 OCTOBER 2026 — RELEASE 2026.10.17.4
+
+Use Dark / Light in the top navigation on any page. The setting follows you between both editions and is remembered across desktop restarts. Dictionary, Grammar, Quiz and Reading all support dark mode. Reading retains Warm / White paper and its Appearance control, synchronized with the global switch.
+
+The original dictionary artwork and light appearance remain. Study pages now have original manuscript-inspired botanical ornaments, illuminated heading initials, fine gold rules and refined Garamond typography. All artwork and fonts work offline. Existing compact shelves, hover behavior, focus, navigation and progress are preserved. No library databases changed.
+
+PREVIOUS UPDATE
+
+DARK READING MODE — 17 OCTOBER 2026 — RELEASE 2026.10.17.3
+
+Open a work and select Appearance > Dark in the reading toolbar. Warm and White remain available. The selection is remembered on this computer. Dark appearance covers the Reading page, its book shelf, controls, reference text and hover dictionary in both Lexicon and Romantica. Other app pages retain their existing appearance.
+
+The compact shelves, author filters, Focus view, hover timing, chapter navigation and reading progress are preserved. No dictionary or reading database changed.
+
+PREVIOUS UPDATE
+
+COMPACT BOOK SHELVES — 17 OCTOBER 2026 — RELEASE 2026.10.17.2
+
+Both editions now show works as compact rows, with titles and authors up front. Click a title or Read / Continue to open a book. Details reveals descriptions, source information, saved position and (in Lexicon) the Move to folder control. Dragging books into folders is retained.
+
+Filter by author, language or title, and arrange by title, author or length in either edition. On wider windows the search controls remain available while scrolling. Back to books restores your previous place in the shelf. Folder management is tucked under Manage folders.
+
+All reading and hover features, existing libraries, uploads and saved progress are preserved. The databases are unchanged.
+
+PREVIOUS UPDATE
+
+READING EXPERIENCE UPDATE — 17 OCTOBER 2026 — RELEASE 2026.10.17.1
+
+Both Lexicon (Latin / Greek) and Romantica now use a calmer reading page with a plain paper background, narrower text measure and quieter controls. Choose Warm or White paper; the choice is remembered on this computer. Text-size choices remain available.
+
+Focus hides the main header, work switcher, source details and chapter controls while reading. Select Exit focus to restore them. Previous / Next controls remain available, and Latin / Greek now also have bottom-of-section buttons.
+
+Word information appears in a smaller pane with two immediate meanings. More meanings, possible forms, full dictionary entries and explanatory notes expand when requested. The 400 ms resting hover, editable lookup, keyboard access, outside-click / X / Escape dismissal and persistent pane behavior are retained. The pane fits the viewport when resized or expanded, and the selected word stays highlighted until dismissal.
+
+All books, chapter navigation, uploads, folders, reference material and saved reading positions are retained. This update changes presentation only; dictionary and reading databases are unchanged.
+
+PREVIOUS LIBRARY UPDATE
+
+READING UPDATE — 16 OCTOBER 2026 — RELEASE 2026.10.16.1
+
+SPANISH CARMELITE COLLECTION
+32 new books and collections, bringing Romantica to 621 shared entries. Switch from Lexicon using L, open Reading, select Spanish and search Teresa or Juan de la Cruz.
+
+Teresa de Ávila: Libro de la vida (40 chapters), Camino de perfección (both Escorial and Valladolid versions), Castillo interior / Las moradas, Fundaciones (31 chapters), Relaciones, Conceptos del amor de Dios, Exclamaciones, Constituciones, Modo de visitar los conventos, 31 poems, Vejamen, Respuesta a un desafío, minor documents and 435 transcribed letters and fragments. Original numbering is retained. The complete historical three-volume Epistolario (1922–1924) and Opúsculos y poesías (1919) are also supplied as clearly labelled historical editions, including their original notes and appendices; OCR errors can remain in these scans.
+
+San Juan de la Cruz: Subida del Monte Carmelo, Noche oscura, both A and B versions of Cántico espiritual and Llama de amor viva, poetry, 33 letters, Dichos de luz y amor, Cautelas, Avisos, Dictámenes de espíritu, Grados de perfección, Censura y parecer and the text of the Monte de perfección drawing.
+
+3,213 reading sections, with searchable chapter, poem and letter navigation. Source credits and exact coverage are recorded in the app's licenses/Spanish Carmelite sources.txt and spanish-carmelites-report.json. No claim is made to include lost works or every recently discovered letter. The existing hover dictionary works with these Spanish texts.
+
+PREVIOUS READING ADDITIONS RETAINED
+
+GREEK ADDITION
+167 additional Greek texts, bringing the shared Greek collection to 205 entries. All are in Greek · Classics. Search the shelf by author or English work title.
+
+Demosthenes: 63 corpus entries, comprising the 61 numbered speeches, Exordia and Letters. Highlights include On the Crown, the Olynthiacs and Philippics. The Letters retain all six letters, and the Exordia retain all 56 numbered openings.
+
+Oratory: Isocrates (30 entries), Lysias (34), Isaeus (12), Aeschines (3), Andocides (4), Antiphon (6), Hyperides (6 surviving texts), Dinarchus (3), Lycurgus (1) and Demades (1). All ten canonical Attic orators are represented. Aristotle’s Rhetoric remains available in the existing collection.
+
+Thucydides: History of the Peloponnesian War, all eight surviving books and 917 chapters. Theocritus: the source edition’s 30 Idylls and 24 Epigrams. Theophrastus: Characters, with its preface and all 30 characters.
+
+All 167 texts passed source-text preservation checks. Book, chapter, section, letter and poem divisions are retained. Some ancient texts survive only incompletely or have disputed attribution; source gaps are displayed as ⟦…⟧. Critical apparatus and original source metadata are included offline in licenses/Greek source texts.zip. The texts are credited to the Perseus Digital Library and retain the CC BY-SA 4.0 licence.
+
+The existing collection and reading positions are preserved. Close and reopen Lexicon to load the added texts.
+
+PREVIOUS LATIN AND READER UPDATE
+
+Latin collection: 129 shared Latin entries. This update adds 104 works from The Latin Library: 264 source pages and 10,343 reading sections. All source text passed a full-text preservation check. Additions include Virgil’s Georgics; Horace, Lucretius, Catullus, Juvenal, Persius and Tibullus; Apuleius; six Terence plays; Cicero and Seneca; Augustine, Bonaventure and Thomas à Kempis; Quintilian; Pliny; Tacitus; Eutropius; Erasmus; and Lhomond’s De viris illustribus.
+
+The existing eight classical Latin editions match their retained source texts. All eight Latin readers were checked against their source editions. Omitted supporting material was restored in Selections from Viri Romae, Confessiones and Robinson Crusoe in Latin: 579 text items in 13 appended sections. Select “Restored supporting material” under Book or part. Existing reading sections and saved positions are preserved.
+
+“Selections” editions remain labelled as selections. Full works are added alongside them where available. Complete source text means the surviving text supplied by the source, including inherited gaps; it does not reconstruct lost passages. Incomplete source collections such as the Latin Library’s Lhomond Epitome and Seneca De beneficiis were excluded.
+
+Ovid remains complete for the nine works available on the Latin Library index: 59 source pages, 559 reading passages. Printed book, poem, letter and verse labels are retained.
+
+Both readers provide book/part selection and searchable sections. Romantica retains its previous 589 shared entries alongside the 32 new Spanish collections, including the recent German, Catholic, Groulx, Bossuet and Maria Chapdelaine additions. Goodwin remains in the classical Reference shelf. Hover waits for 400 ms of pointer rest; outside click, X and Escape close the pane.
+
+Close and reopen the app to load the updated library. Your personal books and progress stay on your computer and are excluded from the sharing ZIPs. Personal scanned books retain their existing OCR limitations.
+
+Mac packaging uses the same bundled Intel and Apple Silicon runtimes as before. Its contents are checked on Windows; this release has not been launched on a Mac here.

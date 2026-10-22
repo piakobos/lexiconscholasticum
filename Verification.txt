@@ -1,0 +1,135 @@
+RELEASE VERIFICATION — 20 OCTOBER 2026 — 2026.10.20.2
+
+45 new entries: 42 Perseus Latin works/collections and three Scripture collections, containing 10,687 new reading sections. All 311 previously supplied supplementary reader objects were compared with the previous Windows delivery and are unchanged.
+
+Scripture coverage: Vulgate 73 books / 1,334 chapters, cross-checked against the independent USFX export; Swete Septuagint 60 book/variant/appendix divisions / 1,259 chapters, preserving every source word; Westcott–Hort Greek New Testament 27 books / 260 chapters. Source-empty verse slots are marked and reported. The standalone Septuagint recipe rebuilt the distributed data exactly from the included source TSV files.
+
+Latin extraction asserts that all selected source main text is retained. Livy's 35 surviving full books, summaries, Suetonius's 12 lives, Nepos's 25 biographies and the Annals' 721 source chapter markers are represented. Source notes and apparatus remain available in the archived original editions.
+
+Installed reader assets passed browser checks for all three Scripture collections' book/chapter menus and final chapters, whole-work text search, result jumps, saved highlight/note persistence, highlight review, mobile bounds and no page errors. Desktop and mobile captures were produced; the desktop reading view was visually reviewed. Independent section API and persistence checks passed.
+
+Full delivery-library audit: 395 Lexicon entries and 621 Romantica entries, with all recorded sections present and no personal-library books missing from the authorized shared collection. Personal databases and notes are excluded. Runtime code/executable is unchanged from the previous verified release. Mac retains the established Intel/Apple Silicon bundled runtime; native Mac launch testing is unavailable.
+
+Both ZIPs passed archive integrity, exact reader payload/source-archive comparison, dictionary/database hashes and runtime-structure checks and replaced the previous delivery. SHA256SUMS.txt identifies the completed archives. Windows: 1,860,726,501 bytes. Mac: 1,914,199,694 bytes.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 20 OCTOBER 2026 — 2026.10.20.1
+
+Both current Windows and Mac ZIPs passed archive integrity, exact frontend/module checks and the full reading-library verification. SHA256SUMS.txt records the completed packages.
+
+Five focused persistence/data tests passed: reopening, update/delete, duplicate-note preservation, overlapping highlights, malformed/stale anchors, Unicode/structured blocks, independent personal stores and existing progress preservation.
+
+Browser/API checks passed on both actual edition servers using isolated fixture books. Covered selection spanning word elements, Unicode emoji/accent offsets, saved notes and highlights after reload, overlapping selections, empty notes, edit/delete, all-book review/search, passage jumps across sections, search-mark coexistence, saving failure with retained draft, dark/mobile layouts and resting-hover lookup. Lexicon references also passed selection across table cells and normalized accented text. Screenshots were visually reviewed; no JavaScript errors occurred.
+
+The Windows executable was rebuilt to include personal highlight storage in both editions. Native fresh-state launch, dictionary health and both edition switches passed; the new highlight table was created successfully in each personal database. Shared study databases contain no highlight table. The shared reading-library audit still confirms all 350 Lexicon and 621 Romantica works are complete. User highlights/notes remain solely in personal databases, which are excluded from the shipping ZIPs. Mac uses the established bundled Intel/Apple Silicon runtime packaging; native Mac launch testing is unavailable.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 18 OCTOBER 2026 — 2026.10.18.2
+
+Ten focused chart-data tests passed. Browser/API checks use real saved entries: amo, fero, sum, loquor, rosa, inflected rosa, logos and luo. Checked all five compound perfect-system rows, gender agreement, independent voice controls, deponent/no-passive behavior, noun/verb homographs, Greek dual and dialect forms, dark mode, mobile page bounds and no JavaScript errors. Chart screenshots were visually reviewed.
+
+Rebuilt chart database: 6,386 Latin verb and 2,898 Greek verb paradigms; 16,801 Latin and 8,784 Greek noun paradigms; 9,228 Latin and 4,064 Greek proper-name paradigms. SQLite integrity check passed. Expanded 146,370 compound cells across 4,832 distinct Latin verb lemmas, using only explicit saved formation instructions. The 85 complex multiword instructions across 17 phrases remain visible verbatim rather than being automatically expanded.
+
+Installed assets and shipping frontend/data are synchronized. Runtime Python and the compiled executable are unchanged; this release updates frontend JavaScript and offline chart data. Both ZIPs passed CRC and exact chart/frontend hash checks, along with the full existing reading-library checks, and replaced the previous release. Mac packaging retains the established bundled-runtime method; native Mac launch testing is unavailable. D: was not available for this update.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 18 OCTOBER 2026 — 2026.10.18.1
+
+Full-text API and browser checks passed for both editions: literal phrases, accent/case normalization, German sharp s, Greek accents, all matching sections, pagination, result jumps, highlights, clearing, no-results, mobile bounds and reference searching. Existing hover and navigation regression checks passed.
+
+Clean user libraries load 350 Lexicon and 621 Romantica works. Every work has all its recorded sections and nonempty text. All 15 newly shared books (11,854 sections) preserve exact text, headings and structured blocks. Re-seeding does not duplicate books or reset progress.
+
+The rebuilt Windows app passed a native fresh-state smoke run, including both edition switches, dictionary health and all 16 seeded books/references. No saved progress was copied. Windows and Mac archives undergo CRC, exact frontend/source/payload and full reading-database hash verification. Mac native runtime testing is unavailable.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 17 OCTOBER 2026 — 2026.10.17.4
+
+GLOBAL APPEARANCE
+Real browser checks passed for both editions: dark Dictionary, Grammar, Quiz and Reading; dictionary headwords/definitions; cross-port persistence; live theme synchronization between the two actual app frames; reading Appearance synchronization; mobile page bounds; no page errors. Desktop screenshots were visually reviewed.
+
+Reading regression checks passed for compact shelves, filters, sorting, details, restored shelf position, chapter navigation, focus, word-pane expansion, narrow-window bounds and reference isolation. Resting-hover regression checks passed in both editions. Dictionary and reading databases were unchanged.
+
+Original offline vector ornament; existing licensed Garamond fonts and dictionary paintings retained. Installed and source assets synchronized. ZIP integrity and exact frontend checks are required by package_sharing.py. Mac retains established bundled runtimes; native Mac launch testing is unavailable.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 17 OCTOBER 2026 — 2026.10.17.3
+
+DARK READING
+Both editions passed browser checks for selecting Dark, persistence after reloading, dark native control styling, dark reader and popup backgrounds with light text, returning to Warm, and existing focus, hover-pane, navigation, compact shelf and narrow-window behavior. Dark desktop screenshots were visually reviewed. Source, installed and build frontend copies match. Reading and dictionary databases are unchanged.
+
+Both sharing ZIPs are rebuilt and verified before the separate D: portable folder is prepared. The Mac package retains its bundled Intel/Apple Silicon runtimes; native Mac launch testing is unavailable.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 17 OCTOBER 2026 — 2026.10.17.2
+
+COMPACT SHELVES
+Live browser checks passed in both editions for loading the full shelves, author/language/title filters, sorting, details disclosure, book-title opening, return to the same author filter and shelf scroll position, and 390-pixel layouts without horizontal overflow. Existing reading/navigation, paper/focus, word-pane, classical/Spanish content navigation and reference-isolation browser checks also passed. Desktop and narrow-screen shelf screenshots were reviewed. No reading or dictionary database changed.
+
+Source, installed and compiled-build frontend copies are synchronized. Windows and Mac ZIPs are rebuilt with integrity and exact frontend-content checks. No runtime Python changed. Mac retains the established bundled-runtime method; native Mac launch testing is unavailable.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 17 OCTOBER 2026 — 2026.10.17.1
+
+READING PRESENTATION
+Both readers have shared presentation and word-pane components. Hover regression checks passed for resting delay, movement cancellation, persistent results, click/X/Escape dismissal, stale replies, touch and keyboard activation. Live browser checks passed for warm/white preference persistence, reversible Focus view, unchanged section position, compact meanings, all 15 test analyses accessible, expanded dictionary entries and pane bounds at 1200 and 390 pixel window widths. Desktop and narrow-screen screenshots were visually reviewed.
+
+Existing full-corpus checks passed: 335 classical entries and 621 Romantica entries retain their first/final sections and navigation. Latin, Greek and Spanish text/source checks passed, including all historical Carmelite volumes. Existing live tests for chapter search, anchored sections, edition switching, Greek text, saved progress and Goodwin reference isolation passed. Library databases were not changed in this presentation update.
+
+The installed Windows executable passed launch and edition-switching checks on 17 October using isolated test data. Installed and build frontend assets are synchronized. Both sharing ZIPs are rebuilt and checked against the installed frontend, including the new reading-comfort scripts/styles; ZIP integrity and library hashes are verified before delivery. Personal books and saved progress are not packaged. Mac uses the established bundled Intel/Apple Silicon runtimes; native Mac launch testing is unavailable.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 16 OCTOBER 2026 — 2026.10.16.1
+
+SPANISH CARMELITE COLLECTION
+32 new books and collections; 3,213 reading sections. All 589 previous shared books and their section text were compared directly against the pre-update database and preserved unchanged. The shared reading database passed SQLite integrity checks. No personal database was edited or packaged.
+
+All 32 new reading-text hashes and every retained source-file hash passed verification. Chapter completeness checks cover Vida 1–40, Camino de Escorial 1–73 and Fundaciones 1–31. All 31 poems and the historical Epistolario's three volumes are present. The complete body of every historical source volume was compared with the reader text, including the final letters volume with its OCR-misspelled title. Main transcriptions omit modern editorial notes; historical editions include their period editorial material and may contain OCR errors.
+
+All 335 classical shelf entries (including Goodwin) and 621 Romantica entries passed first/final-section and navigation checks. Browser tests passed for the new Spanish works: chapter 31 of Fundaciones, the seventh Moradas, the final poem, Subida book III chapter 45, and Teresa's final numbered letter 468. Spanish word handling, work switching, saved progress and mobile navigation passed. Earlier Latin/Greek/reference checks also passed.
+
+The installed Windows application passed launch and edition-switch checks on 16 October at 01:46 local time using isolated test data. No runtime Python changed; the installed executable loads the updated external libraries. Both delivery ZIPs are rebuilt with the new database, navigation, metadata and source credits. Each ZIP must pass integrity and content checks before replacing the previous release; final checksums are recorded in SHA256SUMS.txt.
+
+MAC AND USB
+The established bundled Intel/Apple Silicon Mac packaging is retained. Package contents and runtime architecture are checked on Windows; no native Mac launch was performed. USB was not updated, as requested.
+
+PREVIOUS RELEASE VERIFICATION
+
+RELEASE VERIFICATION — 15 OCTOBER 2026 — 2026.10.15.7
+
+GREEK EXPANSION
+All 167 Greek source imports passed full main-text preservation checks. Their text hashes, language, source author counts and navigation labels were validated. The previous 144 supplementary catalogue entries remain exactly unchanged, including all Latin repairs and Ovid additions.
+
+335 classical shelf entries (334 shared works plus Goodwin) and 589 Romantica entries passed first/final-section and navigation checks. Greek structural checks cover 8 Thucydides books, 6 Demosthenes letters, 30 Theocritus Idylls, 24 Epigrams and the Theophrastus preface plus 30 Characters. Live browser checks passed for Demosthenes On the Crown through section 324, Thucydides through Book 8 chapter 109, Theophrastus through Character 30, polytonic Greek word handling and verse layout. Existing Latin, Romance, reference and mobile-navigation checks also passed.
+
+The installed Windows application passed the edition-switch smoke test again after this Greek update. No application logic changed; the existing executable loads the updated reading assets. Personal data was isolated for testing.
+
+The new package validation also checks all 167 Greek entries, the Greek source report and credits, and the complete retained source archive. Both current ZIPs must pass integrity checks before replacing the previous delivery files. SHA256SUMS.txt records their final hashes.
+
+MAC AND USB
+Mac packaging retains the same bundled Intel and Apple Silicon runtimes. This version is structurally checked on Windows; no native Mac launch has been performed. USB remains unchanged for this release.
+
+PREVIOUS LATIN VERIFICATION
+
+Installed Windows app: launch and both-edition switch passed on 15 October at 22:40 local time, using isolated test data. The shipping executable is unchanged because this release updates reading content; installed and shipping executable hashes match.
+
+Reading checks passed for all 168 classical shelf entries (including Goodwin) and all 589 Romantica entries: first and final sections, valid navigation positions, and saved-position preservation. Live browser tests passed for Ovid, Caesar, Augustine’s 22 books, Seneca’s final letter, the restored Robinson Crusoe notes, Goodwin reference isolation and narrow-screen controls. Hover tests passed in both editions.
+
+104 new Latin Library works: all 264 source pages match their imported full-text hashes. Book counts checked for Augustine, Quintilian, Apuleius and Lucretius. All nine existing Ovid works and their 559 reading sections are retained.
+
+The eight existing Perseus Latin editions match their retained full source text, ignoring whitespace. Six Gutenberg readers pass coverage checks for every source paragraph, heading, list item and table cell after normalization. Both Sonnenschein readers contain every source line, excluding printed paragraph numbers. Restored supporting text: 579 items in 13 appended sections across three readers. Existing reading sections are unchanged.
+
+The collection contains full surviving source texts, with original textual gaps retained. Deliberate anthologies are still labelled Selections. Incomplete source collections were excluded. Personal books remain local; OCR and image-only content in personal scans are not certified by these shared-library checks.
+
+The package builder checks both ZIPs for corruption, current catalogue and reader assets, the expansion report and credits, dictionary checksums, Ovid counts, Goodwin sections and the Romantica reading database. Private databases, private audits and logs are excluded. The completed package hashes are recorded in SHA256SUMS.txt.
+
+Mac packaging retains the established bundled Intel and Apple Silicon runtimes. Runtime architecture, hashes, executable permissions and package structure are checked on Windows. This release has not been launched on a Mac here.
+
+USB: not updated for this release, as requested. USB verification.json is the earlier USB release record.
