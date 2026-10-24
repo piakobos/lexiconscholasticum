@@ -1,3 +1,27 @@
+ENGLISH SOUND SPELLING QUIZ — 24 OCTOBER 2026
+
+In Lexicon Scholasticum, open Quiz and choose English sounds. Choose Greek letters (without accents) or Hebrew letters (with vowel points). An English word appears; type its sound in the chosen alphabet. For example: hard → χαρδ / הָרְד. This is sound spelling, not a translation exercise.
+
+134 offline English prompts, simple and extended word sets, pronunciation hints, on-screen Greek and Hebrew keyboards, Hebrew vowel-point keys, example answers, scores and missed-word rounds. Common variants are accepted, including pronunciations of hard with or without r. A guide explains this exercise's approximations. You can review and count another reasonable spelling when an automatic comparison does not match.
+
+The original Latin and Greek verb quizzes remain under Verb forms. Switching activities keeps the current question in place. Dictionary and reading data, personal books and saved progress are preserved. Both delivery packages include the new activity.
+
+PREVIOUS UPDATE
+
+HEBREW LIBRARY — 23 OCTOBER 2026 — 2026.10.23.hebrew
+
+Hebrew is now available in Dictionary, Grammar Tables and Reading. The existing Latin, Greek and Romance dictionaries and texts remain in place. Personal libraries, progress, highlights and bookmarks are preserved.
+
+Three offline dictionaries: Brown–Driver–Briggs unabridged (10,022 source articles), Strong’s Hebrew and Aramaic (8,674), and Wiktionary Hebrew (18,115). Select Hebrew in Language. Pointed and unpointed headwords work; Strong numbers such as H7225 are accepted. Definition text search can be restricted to a dictionary. The Grammar Tables Hebrew tab gives a concise alphabet, vowel, noun, pronoun, verb-stem and Qal reference.
+
+Reading now includes 200 Hebrew works in 4,545 chapter-sized sections: OSHB/Westminster Leningrad Codex, Miqra according to the Masorah, STEP Translators Hebrew OT and an unpointed Aleppo transcription (39 books each); the Samaritan Pentateuch (5 books); fragmentary Dead Sea Scroll witnesses (36 biblical books); Pirkei Avot, Mishnah Berakhot and Mesillat Yesharim. Choose the Hebrew filter or folders and search an edition name. Each biblical book appears separately for each edition. Hebrew text reads right to left. Click, rest the pointer on, or keyboard-focus a word for dictionary meanings and possible forms. All 57,959 attested OSHB analyses and 170,239 supplied Wiktionary form analyses are indexed.
+
+Texts retain source-native verse numbering; editions may differ in coverage. The Aleppo entry is a digital unpointed transcription; Dead Sea Scrolls are labelled fragments with manuscript and reconstruction marks, not a complete Bible. Source credits and licences are in editions/scholastic/licenses/Hebrew. Samaritan and Dead Sea Scroll datasets retain their CC BY-NC 4.0 noncommercial terms.
+
+Delivery inventory: 595 Scholasticum and 621 Romantica works, 1,216 in total. Both Windows and Mac ZIPs include this addition. Windows startup and browser behaviour are checked; Mac packaging is structurally verified on Windows and has not been launch-tested on a Mac. Restart the installed app using the existing desktop shortcut.
+
+PREVIOUS UPDATE
+
 SCRIPTURE AND PERSEUS LIBRARY — 20 OCTOBER 2026 — 2026.10.20.2
 
 45 new shelf entries: the 73-book Clementine Vulgate, Swete's Greek Septuagint corpus (including deuterocanon, clearly labelled variant versions and appendices), the 27-book Westcott–Hort Greek New Testament, and 42 Latin works/collections from Perseus. Both delivery packages now include 395 Lexicon entries and 621 Romantica entries: 1,016 in total.

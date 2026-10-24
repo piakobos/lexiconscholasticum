@@ -1,9 +1,9 @@
 {
-  "release": "2026.10.20.2",
+  "release": "2026.10.23.hebrew",
   "editions": {
     "scholastic": {
-      "works": 395,
-      "sections": 50542,
+      "works": 595,
+      "sections": 55087,
       "study_sha256": "4632ca022eebe9512e4b78167cb66a77c9c7264bd090c2faa909c08be1aa40d8",
       "books": [
         {
@@ -2658,6 +2658,1406 @@
           "author": "New Testament · edited by Westcott and Hort",
           "language": "greek",
           "pages": 260
+        },
+        {
+          "id": "hebrew-oshb-gen",
+          "title": "Genesis · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 50
+        },
+        {
+          "id": "hebrew-oshb-exo",
+          "title": "Exodus · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 40
+        },
+        {
+          "id": "hebrew-oshb-lev",
+          "title": "Leviticus · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 27
+        },
+        {
+          "id": "hebrew-oshb-num",
+          "title": "Numbers · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-oshb-deu",
+          "title": "Deuteronomy · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 34
+        },
+        {
+          "id": "hebrew-oshb-jos",
+          "title": "Joshua · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-oshb-jdg",
+          "title": "Judges · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 21
+        },
+        {
+          "id": "hebrew-oshb-rut",
+          "title": "Ruth · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-oshb-1sa",
+          "title": "1 Samuel · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 31
+        },
+        {
+          "id": "hebrew-oshb-2sa",
+          "title": "2 Samuel · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-oshb-1ki",
+          "title": "1 Kings · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 22
+        },
+        {
+          "id": "hebrew-oshb-2ki",
+          "title": "2 Kings · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 25
+        },
+        {
+          "id": "hebrew-oshb-1ch",
+          "title": "1 Chronicles · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 29
+        },
+        {
+          "id": "hebrew-oshb-2ch",
+          "title": "2 Chronicles · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-oshb-ezr",
+          "title": "Ezra · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-oshb-neh",
+          "title": "Nehemiah · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 13
+        },
+        {
+          "id": "hebrew-oshb-est",
+          "title": "Esther · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-oshb-job",
+          "title": "Job · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 42
+        },
+        {
+          "id": "hebrew-oshb-psa",
+          "title": "Psalms · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 150
+        },
+        {
+          "id": "hebrew-oshb-pro",
+          "title": "Proverbs · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 31
+        },
+        {
+          "id": "hebrew-oshb-ecc",
+          "title": "Ecclesiastes · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 12
+        },
+        {
+          "id": "hebrew-oshb-sol",
+          "title": "Song of Songs · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 8
+        },
+        {
+          "id": "hebrew-oshb-isa",
+          "title": "Isaiah · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 66
+        },
+        {
+          "id": "hebrew-oshb-jer",
+          "title": "Jeremiah · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 52
+        },
+        {
+          "id": "hebrew-oshb-lam",
+          "title": "Lamentations · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 5
+        },
+        {
+          "id": "hebrew-oshb-eze",
+          "title": "Ezekiel · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 48
+        },
+        {
+          "id": "hebrew-oshb-dan",
+          "title": "Daniel · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 12
+        },
+        {
+          "id": "hebrew-oshb-hos",
+          "title": "Hosea · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-oshb-joe",
+          "title": "Joel · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-oshb-amo",
+          "title": "Amos · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 9
+        },
+        {
+          "id": "hebrew-oshb-oba",
+          "title": "Obadiah · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 1
+        },
+        {
+          "id": "hebrew-oshb-jon",
+          "title": "Jonah · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-oshb-mic",
+          "title": "Micah · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 7
+        },
+        {
+          "id": "hebrew-oshb-nah",
+          "title": "Nahum · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-oshb-hab",
+          "title": "Habakkuk · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-oshb-zep",
+          "title": "Zephaniah · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-oshb-hag",
+          "title": "Haggai · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 2
+        },
+        {
+          "id": "hebrew-oshb-zec",
+          "title": "Zechariah · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-oshb-mal",
+          "title": "Malachi · OSHB / Westminster Leningrad Codex",
+          "author": "OSHB / Westminster Leningrad Codex",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-mapm-gen",
+          "title": "Genesis · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 50
+        },
+        {
+          "id": "hebrew-mapm-exo",
+          "title": "Exodus · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 40
+        },
+        {
+          "id": "hebrew-mapm-lev",
+          "title": "Leviticus · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 27
+        },
+        {
+          "id": "hebrew-mapm-num",
+          "title": "Numbers · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-mapm-deu",
+          "title": "Deuteronomy · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 34
+        },
+        {
+          "id": "hebrew-mapm-jos",
+          "title": "Joshua · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-mapm-jdg",
+          "title": "Judges · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 21
+        },
+        {
+          "id": "hebrew-mapm-rut",
+          "title": "Ruth · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-mapm-1sa",
+          "title": "1 Samuel · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 31
+        },
+        {
+          "id": "hebrew-mapm-2sa",
+          "title": "2 Samuel · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-mapm-1ki",
+          "title": "1 Kings · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 22
+        },
+        {
+          "id": "hebrew-mapm-2ki",
+          "title": "2 Kings · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 25
+        },
+        {
+          "id": "hebrew-mapm-1ch",
+          "title": "1 Chronicles · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 29
+        },
+        {
+          "id": "hebrew-mapm-2ch",
+          "title": "2 Chronicles · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-mapm-ezr",
+          "title": "Ezra · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-mapm-neh",
+          "title": "Nehemiah · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 13
+        },
+        {
+          "id": "hebrew-mapm-est",
+          "title": "Esther · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-mapm-job",
+          "title": "Job · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 42
+        },
+        {
+          "id": "hebrew-mapm-psa",
+          "title": "Psalms · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 150
+        },
+        {
+          "id": "hebrew-mapm-pro",
+          "title": "Proverbs · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 31
+        },
+        {
+          "id": "hebrew-mapm-ecc",
+          "title": "Ecclesiastes · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 12
+        },
+        {
+          "id": "hebrew-mapm-sol",
+          "title": "Song of Songs · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 8
+        },
+        {
+          "id": "hebrew-mapm-isa",
+          "title": "Isaiah · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 66
+        },
+        {
+          "id": "hebrew-mapm-jer",
+          "title": "Jeremiah · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 52
+        },
+        {
+          "id": "hebrew-mapm-lam",
+          "title": "Lamentations · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 5
+        },
+        {
+          "id": "hebrew-mapm-eze",
+          "title": "Ezekiel · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 48
+        },
+        {
+          "id": "hebrew-mapm-dan",
+          "title": "Daniel · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 12
+        },
+        {
+          "id": "hebrew-mapm-hos",
+          "title": "Hosea · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-mapm-joe",
+          "title": "Joel · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-mapm-amo",
+          "title": "Amos · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 9
+        },
+        {
+          "id": "hebrew-mapm-oba",
+          "title": "Obadiah · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 1
+        },
+        {
+          "id": "hebrew-mapm-jon",
+          "title": "Jonah · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-mapm-mic",
+          "title": "Micah · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 7
+        },
+        {
+          "id": "hebrew-mapm-nah",
+          "title": "Nahum · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-mapm-hab",
+          "title": "Habakkuk · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-mapm-zep",
+          "title": "Zephaniah · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-mapm-hag",
+          "title": "Haggai · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 2
+        },
+        {
+          "id": "hebrew-mapm-zec",
+          "title": "Zechariah · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-mapm-mal",
+          "title": "Malachi · Miqra according to the Masorah",
+          "author": "Miqra according to the Masorah",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-thot-gen",
+          "title": "Genesis · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 50
+        },
+        {
+          "id": "hebrew-thot-exo",
+          "title": "Exodus · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 40
+        },
+        {
+          "id": "hebrew-thot-lev",
+          "title": "Leviticus · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 27
+        },
+        {
+          "id": "hebrew-thot-num",
+          "title": "Numbers · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-thot-deu",
+          "title": "Deuteronomy · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 34
+        },
+        {
+          "id": "hebrew-thot-jos",
+          "title": "Joshua · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-thot-jdg",
+          "title": "Judges · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 21
+        },
+        {
+          "id": "hebrew-thot-rut",
+          "title": "Ruth · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-thot-1sa",
+          "title": "1 Samuel · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 31
+        },
+        {
+          "id": "hebrew-thot-2sa",
+          "title": "2 Samuel · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-thot-1ki",
+          "title": "1 Kings · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 22
+        },
+        {
+          "id": "hebrew-thot-2ki",
+          "title": "2 Kings · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 25
+        },
+        {
+          "id": "hebrew-thot-1ch",
+          "title": "1 Chronicles · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 29
+        },
+        {
+          "id": "hebrew-thot-2ch",
+          "title": "2 Chronicles · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-thot-ezr",
+          "title": "Ezra · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-thot-neh",
+          "title": "Nehemiah · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 13
+        },
+        {
+          "id": "hebrew-thot-est",
+          "title": "Esther · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-thot-job",
+          "title": "Job · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 42
+        },
+        {
+          "id": "hebrew-thot-psa",
+          "title": "Psalms · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 150
+        },
+        {
+          "id": "hebrew-thot-pro",
+          "title": "Proverbs · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 31
+        },
+        {
+          "id": "hebrew-thot-ecc",
+          "title": "Ecclesiastes · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 12
+        },
+        {
+          "id": "hebrew-thot-sol",
+          "title": "Song of Songs · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 8
+        },
+        {
+          "id": "hebrew-thot-isa",
+          "title": "Isaiah · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 66
+        },
+        {
+          "id": "hebrew-thot-jer",
+          "title": "Jeremiah · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 52
+        },
+        {
+          "id": "hebrew-thot-lam",
+          "title": "Lamentations · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 5
+        },
+        {
+          "id": "hebrew-thot-eze",
+          "title": "Ezekiel · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 48
+        },
+        {
+          "id": "hebrew-thot-dan",
+          "title": "Daniel · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 12
+        },
+        {
+          "id": "hebrew-thot-hos",
+          "title": "Hosea · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-thot-joe",
+          "title": "Joel · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-thot-amo",
+          "title": "Amos · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 9
+        },
+        {
+          "id": "hebrew-thot-oba",
+          "title": "Obadiah · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 1
+        },
+        {
+          "id": "hebrew-thot-jon",
+          "title": "Jonah · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-thot-mic",
+          "title": "Micah · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 7
+        },
+        {
+          "id": "hebrew-thot-nah",
+          "title": "Nahum · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-thot-hab",
+          "title": "Habakkuk · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-thot-zep",
+          "title": "Zephaniah · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-thot-hag",
+          "title": "Haggai · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 2
+        },
+        {
+          "id": "hebrew-thot-zec",
+          "title": "Zechariah · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-thot-mal",
+          "title": "Malachi · STEP Translators Hebrew OT",
+          "author": "STEP Translators Hebrew OT",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-aleppo-gen",
+          "title": "Genesis · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 50
+        },
+        {
+          "id": "hebrew-aleppo-exo",
+          "title": "Exodus · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 40
+        },
+        {
+          "id": "hebrew-aleppo-lev",
+          "title": "Leviticus · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 27
+        },
+        {
+          "id": "hebrew-aleppo-num",
+          "title": "Numbers · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-aleppo-deu",
+          "title": "Deuteronomy · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 34
+        },
+        {
+          "id": "hebrew-aleppo-jos",
+          "title": "Joshua · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-aleppo-jdg",
+          "title": "Judges · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 21
+        },
+        {
+          "id": "hebrew-aleppo-rut",
+          "title": "Ruth · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-aleppo-1sa",
+          "title": "1 Samuel · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 31
+        },
+        {
+          "id": "hebrew-aleppo-2sa",
+          "title": "2 Samuel · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-aleppo-1ki",
+          "title": "1 Kings · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 22
+        },
+        {
+          "id": "hebrew-aleppo-2ki",
+          "title": "2 Kings · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 25
+        },
+        {
+          "id": "hebrew-aleppo-1ch",
+          "title": "1 Chronicles · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 29
+        },
+        {
+          "id": "hebrew-aleppo-2ch",
+          "title": "2 Chronicles · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-aleppo-ezr",
+          "title": "Ezra · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-aleppo-neh",
+          "title": "Nehemiah · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 13
+        },
+        {
+          "id": "hebrew-aleppo-est",
+          "title": "Esther · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-aleppo-job",
+          "title": "Job · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 42
+        },
+        {
+          "id": "hebrew-aleppo-psa",
+          "title": "Psalms · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 150
+        },
+        {
+          "id": "hebrew-aleppo-pro",
+          "title": "Proverbs · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 31
+        },
+        {
+          "id": "hebrew-aleppo-ecc",
+          "title": "Ecclesiastes · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 12
+        },
+        {
+          "id": "hebrew-aleppo-sol",
+          "title": "Song of Songs · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 8
+        },
+        {
+          "id": "hebrew-aleppo-isa",
+          "title": "Isaiah · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 66
+        },
+        {
+          "id": "hebrew-aleppo-jer",
+          "title": "Jeremiah · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 52
+        },
+        {
+          "id": "hebrew-aleppo-lam",
+          "title": "Lamentations · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 5
+        },
+        {
+          "id": "hebrew-aleppo-eze",
+          "title": "Ezekiel · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 48
+        },
+        {
+          "id": "hebrew-aleppo-dan",
+          "title": "Daniel · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 12
+        },
+        {
+          "id": "hebrew-aleppo-hos",
+          "title": "Hosea · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-aleppo-joe",
+          "title": "Joel · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-aleppo-amo",
+          "title": "Amos · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 9
+        },
+        {
+          "id": "hebrew-aleppo-oba",
+          "title": "Obadiah · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 1
+        },
+        {
+          "id": "hebrew-aleppo-jon",
+          "title": "Jonah · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-aleppo-mic",
+          "title": "Micah · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 7
+        },
+        {
+          "id": "hebrew-aleppo-nah",
+          "title": "Nahum · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-aleppo-hab",
+          "title": "Habakkuk · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-aleppo-zep",
+          "title": "Zephaniah · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-aleppo-hag",
+          "title": "Haggai · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 2
+        },
+        {
+          "id": "hebrew-aleppo-zec",
+          "title": "Zechariah · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-aleppo-mal",
+          "title": "Malachi · Aleppo · unpointed transcription",
+          "author": "Aleppo · unpointed transcription",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-sp-gen",
+          "title": "Genesis · Samaritan Pentateuch",
+          "author": "Samaritan Pentateuch",
+          "language": "hebrew",
+          "pages": 50
+        },
+        {
+          "id": "hebrew-sp-exo",
+          "title": "Exodus · Samaritan Pentateuch",
+          "author": "Samaritan Pentateuch",
+          "language": "hebrew",
+          "pages": 40
+        },
+        {
+          "id": "hebrew-sp-lev",
+          "title": "Leviticus · Samaritan Pentateuch",
+          "author": "Samaritan Pentateuch",
+          "language": "hebrew",
+          "pages": 27
+        },
+        {
+          "id": "hebrew-sp-num",
+          "title": "Numbers · Samaritan Pentateuch",
+          "author": "Samaritan Pentateuch",
+          "language": "hebrew",
+          "pages": 36
+        },
+        {
+          "id": "hebrew-sp-deu",
+          "title": "Deuteronomy · Samaritan Pentateuch",
+          "author": "Samaritan Pentateuch",
+          "language": "hebrew",
+          "pages": 34
+        },
+        {
+          "id": "hebrew-dss-gen",
+          "title": "Genesis · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 33
+        },
+        {
+          "id": "hebrew-dss-exo",
+          "title": "Exodus · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 40
+        },
+        {
+          "id": "hebrew-dss-lev",
+          "title": "Leviticus · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 25
+        },
+        {
+          "id": "hebrew-dss-num",
+          "title": "Numbers · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 34
+        },
+        {
+          "id": "hebrew-dss-deu",
+          "title": "Deuteronomy · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 34
+        },
+        {
+          "id": "hebrew-dss-jos",
+          "title": "Joshua · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-dss-jdg",
+          "title": "Judges · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 8
+        },
+        {
+          "id": "hebrew-dss-rut",
+          "title": "Ruth · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-dss-1sa",
+          "title": "1 Samuel · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 30
+        },
+        {
+          "id": "hebrew-dss-2sa",
+          "title": "2 Samuel · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 24
+        },
+        {
+          "id": "hebrew-dss-1ki",
+          "title": "1 Kings · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 6
+        },
+        {
+          "id": "hebrew-dss-2ki",
+          "title": "2 Kings · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 6
+        },
+        {
+          "id": "hebrew-dss-2ch",
+          "title": "2 Chronicles · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 2
+        },
+        {
+          "id": "hebrew-dss-ezr",
+          "title": "Ezra · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-dss-job",
+          "title": "Job · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 10
+        },
+        {
+          "id": "hebrew-dss-psa",
+          "title": "Psalms · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 122
+        },
+        {
+          "id": "hebrew-dss-pro",
+          "title": "Proverbs · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 7
+        },
+        {
+          "id": "hebrew-dss-ecc",
+          "title": "Ecclesiastes · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-dss-sol",
+          "title": "Song of Songs · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 7
+        },
+        {
+          "id": "hebrew-dss-isa",
+          "title": "Isaiah · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 66
+        },
+        {
+          "id": "hebrew-dss-jer",
+          "title": "Jeremiah · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 32
+        },
+        {
+          "id": "hebrew-dss-lam",
+          "title": "Lamentations · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 5
+        },
+        {
+          "id": "hebrew-dss-eze",
+          "title": "Ezekiel · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-dss-dan",
+          "title": "Daniel · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 11
+        },
+        {
+          "id": "hebrew-dss-hos",
+          "title": "Hosea · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 14
+        },
+        {
+          "id": "hebrew-dss-joe",
+          "title": "Joel · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-dss-amo",
+          "title": "Amos · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 9
+        },
+        {
+          "id": "hebrew-dss-oba",
+          "title": "Obadiah · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 1
+        },
+        {
+          "id": "hebrew-dss-jon",
+          "title": "Jonah · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 4
+        },
+        {
+          "id": "hebrew-dss-mic",
+          "title": "Micah · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 7
+        },
+        {
+          "id": "hebrew-dss-nah",
+          "title": "Nahum · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-dss-hab",
+          "title": "Habakkuk · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-dss-zep",
+          "title": "Zephaniah · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 3
+        },
+        {
+          "id": "hebrew-dss-hag",
+          "title": "Haggai · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 2
+        },
+        {
+          "id": "hebrew-dss-zec",
+          "title": "Zechariah · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 11
+        },
+        {
+          "id": "hebrew-dss-mal",
+          "title": "Malachi · Dead Sea Scrolls · fragmentary witnesses",
+          "author": "Dead Sea Scrolls · fragmentary witnesses",
+          "language": "hebrew",
+          "pages": 2
+        },
+        {
+          "id": "hebrew-pirkei-avot",
+          "title": "Pirkei Avot · משנה אבות",
+          "author": "Mishnah · Sayings of the Fathers",
+          "language": "hebrew",
+          "pages": 6
+        },
+        {
+          "id": "hebrew-mishnah-berakhot",
+          "title": "Mishnah Berakhot · משנה ברכות",
+          "author": "Mishnah · Blessings",
+          "language": "hebrew",
+          "pages": 9
+        },
+        {
+          "id": "hebrew-mesillat-yesharim",
+          "title": "Mesillat Yesharim · מסילת ישרים",
+          "author": "Moses Ḥayyim Luzzatto",
+          "language": "hebrew",
+          "pages": 27
         },
         {
           "id": "user-reference-goodwin-moods-tenses",

@@ -1,3 +1,9 @@
+ENGLISH SOUND QUIZ — 24 OCTOBER 2026
+Open Quiz → English sounds. Write English sounds using plain Greek or pointed Hebrew. Existing verb quizzes remain in place. See Reading update.txt for details.
+
+HEBREW ADDITION — 23 OCTOBER 2026
+Three offline Hebrew dictionaries, concise grammar and vowels, and 200 Hebrew reading entries have been added. See Reading update.txt for editions and instructions. Existing libraries and personal data are preserved.
+
 NEW: Vulgate, Septuagint, Greek New Testament and 42 Perseus Latin works/collections. Open Reading and search a title or author. Scripture has book/chapter menus and verse numbers. Restart the app to load the new library.
 
 NEW: Select reading text to save a highlight and optional note. Use My highlights to review, search, edit or return to saved passages. Restart the app to load this update. Highlights and notes stay in your personal library and are not included in sharing ZIPs.

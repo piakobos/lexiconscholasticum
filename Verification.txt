@@ -133,3 +133,34 @@ The package builder checks both ZIPs for corruption, current catalogue and reade
 Mac packaging retains the established bundled Intel and Apple Silicon runtimes. Runtime architecture, hashes, executable permissions and package structure are checked on Windows. This release has not been launched on a Mac here.
 
 USB: not updated for this release, as requested. USB verification.json is the earlier USB release record.
+
+
+HEBREW ADDITION — 23 OCTOBER 2026
+36,811 offline entries across BDB unabridged, Strong and Wiktionary Hebrew.
+200 Hebrew works / 4,545 chapter-sized sections; all first and last sections checked.
+Original Scholasticum and Romantica lexicon, study and manifest SHA-256 hashes unchanged.
+All pre-existing rows in both personal databases preserved.
+45 backend tests passed. Existing reading navigation, themes, appearance synchronization, work switching and mobile bounds passed in both editions.
+Hebrew search, suggestions, definition filters, pointed/unpointed morphology, bookmarks, progress, text search, RTL, grammar tabs, themes and 390/800px views passed.
+Rebuilt installed Windows executable startup: exit 0; Hebrew entry count, search and reader lookup passed; both frame switches passed.
+Mac launch testing is unavailable on Windows; bundled-runtime and archive checks are used.
+
+FINAL DELIVERY: Both current Windows and Mac ZIPs passed full archive integrity, Hebrew library hashes, source/asset checks, personal-data exclusion checks, and existing library coverage checks. Mac bundled runtimes and universal native dependencies passed structural validation.
+67b7397cdd3ebd2b0e1db507a82478c2d115b5186b7885c391cea2b50932dcc1  Lexicon Scholasticum Windows.zip
+89936842dce983472c3a55236799ea6a6a3d0d55b522254bba3a386d4f5d7975  Lexicon Scholasticum Mac.zip
+
+
+ENGLISH SOUND QUIZ — 24 OCTOBER 2026
+134 curated English prompts. All accepted Greek and pointed Hebrew examples pass automated grading checks. Accent, wrong-script and missing-vowel validation; equivalent vowel/letter forms; scoring, reviewed alternatives, show-example, missed-word retries, RTL typing, both on-screen keyboards, responsive 390/800px layouts, dark mode, accessible tabs and edition switching passed browser checks. Real Latin and Greek verb quizzes still start, and the verb quiz script matches the previous verified release byte for byte.
+Independent --quiz-only UI regression passed using isolated temporary personal databases. Existing light/dark dictionary, grammar, quiz and reading views passed in both editions, including live appearance synchronization. All eight existing library/manifest fingerprints remain unchanged. No Python runtime changes were required for this activity.
+FINAL DELIVERY: Both Windows and Mac ZIPs passed full archive integrity and source/asset checks, including all sound-quiz files and all 134 prompts. Mac bundled-runtime structural checks passed; no Mac launch test was performed.
+dac7a8120cadb94dd834a9c5b3f161d80399b363bbee1db992768824df638209  Lexicon Scholasticum Windows.zip
+abb73fd60a67679103a58d32a565bd2bacef13c435e7a0ac13899909e41ca763  Lexicon Scholasticum Mac.zip
+
+
+NATIVE HEBREW REFERENCE — 24 OCTOBER 2026
+Reused the corrected alphabet, vowel and keyboard data from the original Create Hebrew Letter Guide chart source. Added native, selectable, foldable reference sections at the end of Hebrew grammar and in Hebrew English-sounds practice. Retained the original printable PDF byte for byte.
+Verified all 22 alphabet rows, five final forms, 13 single-mark vowel examples, 30 keyboard keys, dot explanations, language visibility, keyboard-accessible folding, in-round reference access, 1360/800/390px layouts and light/dark appearance. No browser errors. Existing Latin/Greek verb and Greek/Hebrew sound-quiz regression passed. All pre-existing grammar sections, the original verb panel, sound card and sound guide were preserved. Quiz logic changed only to show/hide the Hebrew reference. All six installed/build asset copies match maintained source.
+Reading audit: all 595 Scholasticum and 621 Romantica works complete and included. Both rebuilt ZIPs passed full archive integrity, current asset and library checks, private-data exclusion and established Mac bundled-runtime structural checks. Mac launch testing was not performed.
+2407455b0fad69cac8ae037ee22aab0e5c6c8b8aef103f6fc5feac57c2862410  Lexicon Scholasticum Windows.zip
+fbd18ed3aa66d819dec0f88b3864793d23fda8c87a2d1f0914c518c0a27fd1ce  Lexicon Scholasticum Mac.zip
