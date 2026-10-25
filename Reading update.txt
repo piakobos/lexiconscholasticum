@@ -1,3 +1,6 @@
+READING UPDATE — 25 OCTOBER 2026
+Four latest additions included: two Hebrew references, Familia Romana (35 cleaned chapters), and Roma Aeterna (separate XXXVI/LVI selection). Total: 599 Scholasticum + 621 Romantica = 1,220 reading entries. Existing personal copies and progress are retained on upgrade.
+
 ENGLISH SOUND SPELLING QUIZ — 24 OCTOBER 2026
 
 In Lexicon Scholasticum, open Quiz and choose English sounds. Choose Greek letters (without accents) or Hebrew letters (with vowel points). An English word appears; type its sound in the chosen alphabet. For example: hard → χαρδ / הָרְד. This is sound spelling, not a translation exercise.

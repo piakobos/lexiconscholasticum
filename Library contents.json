@@ -1,9 +1,9 @@
 {
-  "release": "2026.10.23.hebrew",
+  "release": "2026.10.25.reading",
   "editions": {
     "scholastic": {
-      "works": 595,
-      "sections": 55087,
+      "works": 599,
+      "sections": 55697,
       "study_sha256": "4632ca022eebe9512e4b78167cb66a77c9c7264bd090c2faa909c08be1aa40d8",
       "books": [
         {
@@ -4067,6 +4067,20 @@
           "pages": 1123
         },
         {
+          "id": "user-reference-hebrew-gesenius",
+          "title": "Gesenius — Hebrew Grammar (Kautzsch–Cowley, 1910)",
+          "author": "Wilhelm Gesenius; edited by Emil Kautzsch; translated by A. E. Cowley",
+          "language": "hebrew",
+          "pages": 486
+        },
+        {
+          "id": "user-reference-hebrew-uhg",
+          "title": "Biblical Hebrew Reference Grammar — unfoldingWord source",
+          "author": "unfoldingWord and the Door43 World Missions Community",
+          "language": "hebrew",
+          "pages": 87
+        },
+        {
           "id": "user-calibre-3d6c05438e455cc63491",
           "title": "Summa philosophica 2",
           "author": "Tommaso Maria Zigliara",
@@ -4170,6 +4184,20 @@
           "author": "F. C. Conybeare and St. George Stock",
           "language": "greek",
           "pages": 155
+        },
+        {
+          "id": "user-calibre-f2fd5e269f6ed342e433",
+          "title": "Lingua Latina I: Familia Romana — chapter readings",
+          "author": "Hans H. Ørberg",
+          "language": "latin",
+          "pages": 35
+        },
+        {
+          "id": "user-llpsI-roma-aeterna-chapters-36-56-20261025",
+          "title": "Lingua Latina II: Roma Aeterna — Chapters XXXVI & LVI (selection)",
+          "author": "Hans H. Ørberg",
+          "language": "latin",
+          "pages": 2
         }
       ]
     },

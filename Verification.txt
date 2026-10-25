@@ -1,3 +1,22 @@
+VERIFIED DELIVERY — 25 OCTOBER 2026
+
+Windows and Mac ZIPs rebuilt and verified against current installed edition assets. Windows executable SHA-256 matches the installed executable; no application Python changes required a new executable.
+
+Included latest additions: Gesenius Hebrew Grammar (486 source-page sections), Biblical Hebrew Reference Grammar from unfoldingWord (87 sections), Familia Romana chapter readings (35 chapters), Roma Aeterna XXXVI/LVI (separate 2-chapter selection).
+
+Library audit: 599 Scholasticum + 621 Romantica = 1,220 reading entries. All section counts and nonempty text checked. Clean-install seeding verified; repeated seeding preserves progress and adds no duplicates. Complete personal Roma Aeterna remains outside this release; its requested separate selection is included.
+
+Both ZIP CRC checks passed. Latest frontends, quiz resources, dictionary and reading database hashes, source credits, reference payloads and inventory matched. No personal.sqlite3, desktop logs, running-state files or saved user progress included.
+
+Mac runtime archives, Intel/Apple Silicon binaries, executable permissions and package structure verified on Windows. This release has not been launch-tested on a Mac.
+
+Package SHA-256 values:
+caf79b466178cda58b4e74a7d518b834a2a451a42d73aed695c90b52cbb01b2c  Lexicon Scholasticum Windows.zip
+804e840554fa3cbb3700a06b2536fe7f98770f16616b231a1a38ba7e56a68cc6  Lexicon Scholasticum Mac.zip
+
+
+PREVIOUS VERIFICATION HISTORY
+
 RELEASE VERIFICATION — 20 OCTOBER 2026 — 2026.10.20.2
 
 45 new entries: 42 Perseus Latin works/collections and three Scripture collections, containing 10,687 new reading sections. All 311 previously supplied supplementary reader objects were compared with the previous Windows delivery and are unchanged.
