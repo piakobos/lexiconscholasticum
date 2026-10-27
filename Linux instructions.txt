@@ -1,0 +1,65 @@
+LEXICON SCHOLASTICUM — LINUX x86-64
+27 October 2026
+
+For ordinary 64-bit Intel/AMD Linux desktop computers. Requires glibc 2.34 or newer
+(for example Ubuntu 22.04+, Debian 12+, current Fedora or Arch). Not for Raspberry
+Pi/ARM, Alpine/musl, or 32-bit systems. Python, pywebview and Qt WebEngine are bundled.
+The library is the same 1,220-entry shared collection as the Windows/Mac packages.
+
+FIRST INSTALL — FIVE STEPS
+1. Extract the whole ZIP into a permanent folder in your home directory.
+2. Open a terminal in the extracted "Lexicon Scholasticum" folder.
+3. Run: sh setup-system.sh
+   This installs Linux system libraries using your distribution's package manager.
+   It needs internet and your sudo password. It then checks the bundled runtime.
+4. Run: sh install.sh
+   This creates an application-menu icon for your account. Do not move the folder
+   afterwards; if you move it, run install.sh again from its new location.
+5. Open Lexicon Scholasticum from the application menu. Pin/favourite the icon
+   using your desktop's normal dock/taskbar menu. Click L for Romantica and R to return.
+
+You can also launch directly with: sh run.sh
+First launch extracts the bundled Python into your user cache and prepares writable
+dictionaries. Allow a few minutes. Ordinary launches work offline. A graphical
+desktop is required. The default Qt backend uses X11/XWayland.
+
+UPDATING
+Close the app. Replace the complete extracted application folder with the new one
+at the same location. Keep your personal data folders. If the location changes,
+run install.sh again. Existing personal books and progress are retained; shared
+book additions are imported on first launch without replacing personal copies.
+
+PERSONAL DATA AND LOGS
+Scholasticum: ${XDG_DATA_HOME:-~/.local/share}/lexicon-scholasticum
+Romantica:    ${XDG_DATA_HOME:-~/.local/share}/romantica-lingua-lexicon
+Python cache: ${XDG_CACHE_HOME:-~/.cache}/lexicon-scholasticum
+Startup errors: ${XDG_STATE_HOME:-~/.local/state}/lexicon-scholasticum/startup-error.txt
+Desktop icon: ${XDG_DATA_HOME:-~/.local/share}/applications/org.lexiconscholasticum.desktop
+No personal databases, saved progress, highlights, notes or private uploads are shipped.
+
+TROUBLESHOOTING
+Run: sh run.sh --check
+Then: sh run.sh
+Keep the terminal output if asking for help. Do not run the application with sudo.
+If extracting with a tool that drops executable permissions, run:
+  chmod +x vendor/PySide6/Qt/libexec/QtWebEngineProcess
+The scripts can always be run using "sh". Keep all vendor libraries, resources,
+Qt plugins, fonts, licences and dictionary folders together.
+
+Other distributions need the runtime equivalents of: ALSA, NSS/NSPR, X11/XCB,
+xcb-cursor, xkbcommon-x11, Xcomposite, Xdamage, Xfixes, Xrandr, EGL/OpenGL,
+DBus, Fontconfig, FreeType and XWayland. Setup recipes are supplied for apt,
+dnf and pacman. They have not been executed on these distributions here.
+
+VERIFICATION
+Built on Windows. Archive integrity, source/data hashes, Linux x86-64 ELF headers,
+runtime provenance, Python syntax and Unix executable permissions are checked.
+The package has not been launch-tested on Linux. Native Linux graphics, system
+dependencies, WebEngine startup and dock integration still need a Linux test.
+
+LICENCES
+Keep editions/*/licenses, vendor/*.dist-info/licences and runtime provenance with
+the app. Third-party packages retain their original licences; Qt/PySide is
+distributed as separate replaceable libraries. See Runtime sources.json for exact
+publisher URLs, versions and verified SHA-256 values. Dictionary/text source
+credits and their noncommercial conditions remain in editions/*/licenses.

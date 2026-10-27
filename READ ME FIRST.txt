@@ -1,3 +1,7 @@
+LINUX DELIVERY — 27 OCTOBER 2026
+
+Lexicon Scholasticum Linux x86_64.zip is now available alongside Windows and Mac. It includes the same 1,220 reading entries, bundled Python/Qt desktop runtime, system-library setup and a per-user application-menu icon installer. Requires x86-64 Linux with glibc 2.34+ (e.g. Ubuntu 22.04+, Debian 12+). See Linux instructions.txt. Linux launch testing has not been performed on this Windows machine.
+
 READING UPDATE — 25 OCTOBER 2026
 Four latest additions included: two Hebrew references, Familia Romana (35 cleaned chapters), and Roma Aeterna (separate XXXVI/LVI selection). Total: 599 Scholasticum + 621 Romantica = 1,220 reading entries. Existing personal copies and progress are retained on upgrade.
 

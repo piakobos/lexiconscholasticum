@@ -1,3 +1,14 @@
+LINUX VERIFICATION — 27 OCTOBER 2026
+
+Archive: Lexicon Scholasticum Linux x86_64.zip
+SHA-256: fc4b252e335ba358a7f324c065b37a9937ba2c3142622c51f5dd635eeb849215
+
+Passed: complete ZIP CRC; 6,799 shared edition files matching the verified Windows package; all 1,220 reading entries; Python runtime publisher SHA-256 and x86-64 ELF header; 287 vendor Linux x86-64 ELF libraries/processes; Unix launcher/WebEngine executable permissions; Python syntax; shell syntax using Bash on Windows; complete Python 3.12/Linux package dependency closure.
+
+Desktop installer exercised in an isolated temporary folder, including paths containing spaces and percent signs. Native system libraries were derived from the Qt ELF dependencies and included in setup recipes for apt, dnf and pacman. Neither those setup commands nor Linux GUI startup/dock integration have been executed on Linux here.
+
+No Windows DLL/EXE/PYD helpers or personal databases/logs included. Existing Windows and Mac packages are unchanged and their checksum entries are retained. Future full builds include Linux via package_sharing.py.
+
 VERIFIED DELIVERY — 25 OCTOBER 2026
 
 Windows and Mac ZIPs rebuilt and verified against current installed edition assets. Windows executable SHA-256 matches the installed executable; no application Python changes required a new executable.
@@ -183,3 +194,7 @@ Verified all 22 alphabet rows, five final forms, 13 single-mark vowel examples, 
 Reading audit: all 595 Scholasticum and 621 Romantica works complete and included. Both rebuilt ZIPs passed full archive integrity, current asset and library checks, private-data exclusion and established Mac bundled-runtime structural checks. Mac launch testing was not performed.
 2407455b0fad69cac8ae037ee22aab0e5c6c8b8aef103f6fc5feac57c2862410  Lexicon Scholasticum Windows.zip
 fbd18ed3aa66d819dec0f88b3864793d23fda8c87a2d1f0914c518c0a27fd1ce  Lexicon Scholasticum Mac.zip
+
+LOSSLESS LINUX ZIP RECOMPRESSION - 27 October 2026
+Standard Deflate level 9. All 10,984 entries verified against the original: SHA-256 contents, sizes, Unix permissions and timestamps match. Original archive retained outside Delivery. No application or data changes; no new Linux launch test performed.
+7e7743a4f1073fd8cd1d7326a9fc0f294e6307ff2d256004015821c10a210879  Lexicon Scholasticum Linux x86_64.zip
