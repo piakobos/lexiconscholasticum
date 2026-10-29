@@ -1,0 +1,30 @@
+STORAGE OPTIMIZATION - 29 OCTOBER 2026
+
+Installed Windows app and local dictionary copies: 15.05 GB -> 3.82 GB on disk.
+Saved 11.23 GB (74.6%).
+All shared dictionaries, 1,220 reading entries, source credits and licences retained.
+Personal library/progress databases are byte-for-byte unchanged. The previous dictionary backup is retained.
+
+Windows storage:
+- Shared installed files: 9.48 GB -> 1.71 GB.
+- Writable local dictionary copies and backup: 5.57 GB -> 2.11 GB.
+- Lossless Windows storage compression preserves exact original file contents.
+- Windows Properties may still show the original logical Size; Size on disk reflects the savings.
+- No startup extraction or additional app dependency is introduced.
+
+Current sharing downloads (GB, decimal):
+- Lexicon Scholasticum Linux x86_64.zip: 1.89 -> 1.89 (essentially unchanged).
+- Lexicon Scholasticum Mac.zip: 2.06 -> 1.64 (20.2% smaller).
+- Lexicon Scholasticum Windows.zip: 2.02 -> 1.60 (20.6% smaller).
+
+Packaging uses DEFLATE level 9 and omits unused duplicate frontend copies.
+The Windows ZIP includes Optimize storage.cmd. After extraction, close the app and run it once to compress shared app files.
+Future updates can replace compressed files. Compression can be reapplied after an update.
+
+Validation:
+- All 13,144 original installed files and three writable dictionary copies retain their SHA256 hashes.
+- 63 API regression checks passed across all six dictionary languages, five quiz languages, reading, references and conjugations.
+- Both the rebuilt Windows delivery executable and compressed installed app passed native launch/switch tests.
+- All delivery ZIP CRCs, shared-payload identities and inventory verified; final SHA256SUMS recorded.
+- Mac and Linux packages were structurally verified on Windows; neither was launch-tested on its native OS.
+- Large disposable test databases were removed.

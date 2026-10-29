@@ -1,3 +1,7 @@
+STORAGE UPDATE - 29 OCTOBER 2026
+
+The current packages use stronger lossless ZIP compression and omit redundant frontend copies. All shared dictionaries and 1,220 reading entries are retained. On Windows, close the extracted app and run Optimize storage.cmd from its folder to reduce disk usage further. Run the app normally afterwards. Personal libraries and saved progress are stored separately.
+
 LINUX DELIVERY — 27 OCTOBER 2026
 
 Lexicon Scholasticum Linux x86_64.zip is now available alongside Windows and Mac. It includes the same 1,220 reading entries, bundled Python/Qt desktop runtime, system-library setup and a per-user application-menu icon installer. Requires x86-64 Linux with glibc 2.34+ (e.g. Ubuntu 22.04+, Debian 12+). See Linux instructions.txt. Linux launch testing has not been performed on this Windows machine.
