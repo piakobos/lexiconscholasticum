@@ -1,9 +1,9 @@
 {
-  "release": "2026.10.25.reading",
+  "release": "2026.11.09.aquinas",
   "editions": {
     "scholastic": {
-      "works": 599,
-      "sections": 55697,
+      "works": 799,
+      "sections": 72884,
       "study_sha256": "4632ca022eebe9512e4b78167cb66a77c9c7264bd090c2faa909c08be1aa40d8",
       "books": [
         {
@@ -2660,6 +2660,1406 @@
           "pages": 260
         },
         {
+          "id": "calibre-aquinas-ffbfd088a1b3b29e7fac",
+          "title": "Expositio libri Peryermeneias",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 21
+        },
+        {
+          "id": "calibre-aquinas-fac831d459a9d64e411c",
+          "title": "Expositio libri Posteriorum Analyticorum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 66
+        },
+        {
+          "id": "calibre-aquinas-cf640f6aa577cfdf86c1",
+          "title": "Commentaria in octo libros Physicorum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 132
+        },
+        {
+          "id": "calibre-aquinas-6c6e11e81411998fb7a2",
+          "title": "In libros Aristotelis De caelo et mundo expositio",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 69
+        },
+        {
+          "id": "calibre-aquinas-d80d4f1e92046f7af6e9",
+          "title": "In librum Aristotelis De generatione et corruptione expositio",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 19
+        },
+        {
+          "id": "calibre-aquinas-121b8d0c6555eeffd0b5",
+          "title": "Sentencia super Meteora",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 32
+        },
+        {
+          "id": "calibre-aquinas-7e46418ac5a434d5927d",
+          "title": "Sentencia libri De anima",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 59
+        },
+        {
+          "id": "calibre-aquinas-321438ef477b62e10414",
+          "title": "Sentencia libri De sensu et sensato",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 20
+        },
+        {
+          "id": "calibre-aquinas-8dc3ca78c1d84ea13be6",
+          "title": "De memoria et reminiscencia",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 10
+        },
+        {
+          "id": "calibre-aquinas-853209917f070480c3ea",
+          "title": "Tabula libri Ethicorum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 31
+        },
+        {
+          "id": "calibre-aquinas-bcfd66d4673b4ae972a6",
+          "title": "Sententia libri Politicorum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 39
+        },
+        {
+          "id": "calibre-aquinas-ad0a2a5c5d88d5200b37",
+          "title": "In psalmos Davidis expositio",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 79
+        },
+        {
+          "id": "calibre-aquinas-2d248805f7988c302ece",
+          "title": "Expositio super Iob ad litteram",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 57
+        },
+        {
+          "id": "calibre-aquinas-0011c3ee45c2e9d1ea74",
+          "title": "In Jeremiam prophetam expositio",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 256
+        },
+        {
+          "id": "calibre-aquinas-9c3d11d622c9fdf1eb0c",
+          "title": "Expositio super Isaiam ad litteram",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 95
+        },
+        {
+          "id": "calibre-aquinas-941773ec85cbbc97aaa9",
+          "title": "Super Evangelium S. Matthaei lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 154
+        },
+        {
+          "id": "calibre-aquinas-df80b037605cb33413d9",
+          "title": "Super Evangelium S. Ioannis lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 177
+        },
+        {
+          "id": "calibre-aquinas-27bbf3870d124ffa1454",
+          "title": "Super Epistolam B. Pauli ad Romanos lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 86
+        },
+        {
+          "id": "calibre-aquinas-2f421198696184cb445c",
+          "title": "Super I Epistolam B. Pauli ad Corinthios lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 77
+        },
+        {
+          "id": "calibre-aquinas-b91da38c5c3773b5e105",
+          "title": "Super II Epistolam B. Pauli ad Corinthios lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 65
+        },
+        {
+          "id": "calibre-aquinas-481f4de6f7929fcbf4fe",
+          "title": "Super Epistolam B. Pauli ad Galatas lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 48
+        },
+        {
+          "id": "calibre-aquinas-d6e8ed5e1efed1755658",
+          "title": "Super Epistolam B. Pauli ad Ephesios lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 51
+        },
+        {
+          "id": "calibre-aquinas-ad9ac803e15d214c7665",
+          "title": "Super Epistolam B. Pauli ad Philipenses lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 18
+        },
+        {
+          "id": "calibre-aquinas-dbef8b671aa149a5a2b0",
+          "title": "Super Epistolam B. Pauli ad Colossenses lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 20
+        },
+        {
+          "id": "calibre-aquinas-d61ec5e21490ce79a0a0",
+          "title": "Super I Epistolam B. Pauli ad Thessalonicenses lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 12
+        },
+        {
+          "id": "calibre-aquinas-1d440c0c4314c9e68aed",
+          "title": "Super II Epistolam B. Pauli ad Thessalonicenses lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 11
+        },
+        {
+          "id": "calibre-aquinas-f6fb2cfb051fc553a2ef",
+          "title": "Super I Epistolam B. Pauli ad Timotheum lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 27
+        },
+        {
+          "id": "calibre-aquinas-f5275c0e5c8eb21b29d4",
+          "title": "Super II Epistolam B. Pauli ad Timotheum lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 19
+        },
+        {
+          "id": "calibre-aquinas-46b1f175cff1dcbf1af2",
+          "title": "Super Epistolam B. Pauli ad Titum lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 13
+        },
+        {
+          "id": "calibre-aquinas-b59d1f0d5d69c321d2e9",
+          "title": "Super Epistolam B. Pauli ad Philemonem lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 3
+        },
+        {
+          "id": "calibre-aquinas-09a7291773e8ab971c56",
+          "title": "Super Epistolam B. Pauli ad Hebraeos lectura",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 69
+        },
+        {
+          "id": "calibre-aquinas-d2361264bf007c0007f6",
+          "title": "Quaestio disputata de spiritualibus creaturis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 16
+        },
+        {
+          "id": "calibre-aquinas-0becb3b11f0145c2f30b",
+          "title": "Quaestio disputata de unione Verbi incarnati",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 6
+        },
+        {
+          "id": "calibre-aquinas-d35c1bff8d6082df580a",
+          "title": "Quaestiones disputatae de veritate",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 315
+        },
+        {
+          "id": "calibre-aquinas-75d9b7fc0d0dbae1f668",
+          "title": "Quaestiones disputatae de potentia",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 115
+        },
+        {
+          "id": "calibre-aquinas-39a26d6d99ffd566518a",
+          "title": "Quaestio disputata de anima",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 22
+        },
+        {
+          "id": "calibre-aquinas-6d615f5a71153a6ef566",
+          "title": "Quaestiones disputatae de malo",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 134
+        },
+        {
+          "id": "calibre-aquinas-ad2643802cabd3d9279a",
+          "title": "Quaestiones disputatae de virtutibus",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 47
+        },
+        {
+          "id": "calibre-aquinas-4e638fe766711744d9fb",
+          "title": "Quodlibet VI",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 35
+        },
+        {
+          "id": "calibre-aquinas-fe6d4bb17e826feb6c16",
+          "title": "Quodlibet I",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 40
+        },
+        {
+          "id": "calibre-aquinas-7c4c017605b4979203cc",
+          "title": "Quodlibet VII",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 31
+        },
+        {
+          "id": "calibre-aquinas-6e53c971ebec6ec42c36",
+          "title": "Quodlibet II",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 31
+        },
+        {
+          "id": "calibre-aquinas-1099d513b8aaeeca2e0e",
+          "title": "Quodlibet VIII",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 36
+        },
+        {
+          "id": "calibre-aquinas-faebe8253b7aafc9e974",
+          "title": "Quodlibet III",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 57
+        },
+        {
+          "id": "calibre-aquinas-44e1b7410296c7243785",
+          "title": "Quodlibet IX",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 28
+        },
+        {
+          "id": "calibre-aquinas-7147b688f304823b60ed",
+          "title": "Quodlibet IV",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 46
+        },
+        {
+          "id": "calibre-aquinas-631105737ac0f080e99f",
+          "title": "Quodlibet X",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 31
+        },
+        {
+          "id": "calibre-aquinas-941f4850e40e89cd9212",
+          "title": "Quodlibet V",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 54
+        },
+        {
+          "id": "calibre-aquinas-0efffb69882b27a36768",
+          "title": "Quodlibet XI",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 22
+        },
+        {
+          "id": "calibre-aquinas-852356d2cbcf09fa6091",
+          "title": "Quodlibet XII",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 74
+        },
+        {
+          "id": "calibre-aquinas-2533e3eb54a79a965b8f",
+          "title": "De libro vitae (probabiliter authenticum)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-8b0a964f5051d7d00378",
+          "title": "Scriptum super Sententiis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 2227
+        },
+        {
+          "id": "calibre-aquinas-adbdc53b4ebd450e8d0d",
+          "title": "Lectura Romana in primum Sententiarum Petri Lombardi (probabiliter authenticum)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 152
+        },
+        {
+          "id": "calibre-aquinas-66089b6c4f6e6865579c",
+          "title": "Catena Aurea — Expositio in Matthaeum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 315
+        },
+        {
+          "id": "calibre-aquinas-694fa51c12a807642898",
+          "title": "Catena Aurea — Expositio in Marcum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 123
+        },
+        {
+          "id": "calibre-aquinas-a8ce805745b0e5079b1f",
+          "title": "Catena Aurea — Expositio in Lucam",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 272
+        },
+        {
+          "id": "calibre-aquinas-0020a73fbe9b98173fbc",
+          "title": "Catena Aurea — Expositio in Ioannem",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 213
+        },
+        {
+          "id": "calibre-aquinas-947800c858b0f55a517d",
+          "title": "Super librum De causis expositio",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 33
+        },
+        {
+          "id": "calibre-aquinas-f2a9130f61a6eef3a0e3",
+          "title": "In librum B. Dionysii De divinis nominibus expositio",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 80
+        },
+        {
+          "id": "calibre-aquinas-a617e80264476100098c",
+          "title": "Expositio libri Boetii De ebdomadibus",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 6
+        },
+        {
+          "id": "calibre-aquinas-64ea069d3e5ce97339a8",
+          "title": "Primae redactiones Super De Trinitate — Redactiones priores",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-7c7b07b22a8a11cb72d7",
+          "title": "Super Boetium De Trinitate",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 39
+        },
+        {
+          "id": "calibre-aquinas-6422d71e462d3c8c13fc",
+          "title": "De ente et essentia",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 7
+        },
+        {
+          "id": "calibre-aquinas-6ce89195887c77068faf",
+          "title": "De principiis naturae",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 6
+        },
+        {
+          "id": "calibre-aquinas-168b3e6883778fcd2c9a",
+          "title": "De unitate intellectus contra Averroistas",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 8
+        },
+        {
+          "id": "calibre-aquinas-8cf2868b5f0bb1cdc136",
+          "title": "De aeternitate mundi",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-8374f718f0fba9566488",
+          "title": "De substantiis separatis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 21
+        },
+        {
+          "id": "calibre-aquinas-0440a5cb9ae13e77b149",
+          "title": "De articulis Fidei et Ecclesiae sacramentis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-b815da8df718db6cf4c0",
+          "title": "De rationibus Fidei",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 10
+        },
+        {
+          "id": "calibre-aquinas-547228131ab7e83f4f2e",
+          "title": "Expositio super primam et secundam Decretalem",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 4
+        },
+        {
+          "id": "calibre-aquinas-71bcdcc158182620081b",
+          "title": "Principium Rigans montes",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-4791828b90fbedb5c050",
+          "title": "Compendium theologiae",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 258
+        },
+        {
+          "id": "calibre-aquinas-49e49f6964a076155808",
+          "title": "Contra doctrinam retrahentium a religione",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 16
+        },
+        {
+          "id": "calibre-aquinas-bf90a7201cbe236e45a8",
+          "title": "Liber de perfectione spiritualis vitae",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 27
+        },
+        {
+          "id": "calibre-aquinas-ead3d0afc7c4041b333f",
+          "title": "Liber contra impugnantes Dei cultum et religionem",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 45
+        },
+        {
+          "id": "calibre-aquinas-5d2898c823eac0de681d",
+          "title": "Contra errores Graecorum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 77
+        },
+        {
+          "id": "calibre-aquinas-6604b9e8e34b1eb05d5e",
+          "title": "De forma absolutionis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-f4765a95aa358c4822c1",
+          "title": "Epistola ad Bernardum abbatem Casinensem",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-c6d8dffe1fa492d4fcdd",
+          "title": "Epistola ad ducissam Brabantiae",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 9
+        },
+        {
+          "id": "calibre-aquinas-9f30b07a5a8ad026f03e",
+          "title": "De emptione et venditione ad tempus",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-b83675ff4007f95764af",
+          "title": "De iudiciis astrorum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-f4afea12712e9c90f115",
+          "title": "De mixtione elementorum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-7b3db857343cdb8aef07",
+          "title": "De motu cordis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-2aa06f55eb1cfea6fcc2",
+          "title": "De operationibus occultis naturae",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-e548706d26c5052060e0",
+          "title": "Liber de sortibus",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 6
+        },
+        {
+          "id": "calibre-aquinas-8bf70f6b309eb02bd99b",
+          "title": "De regno ad regem Cypri",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 23
+        },
+        {
+          "id": "calibre-aquinas-32023514819785de6532",
+          "title": "Responsio de 6 articulis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 7
+        },
+        {
+          "id": "calibre-aquinas-8af09cbb0d105d18c25b",
+          "title": "Responsio de 30 articulis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 3
+        },
+        {
+          "id": "calibre-aquinas-fd4d60674aebd3d98621",
+          "title": "Responsio de 36 articulis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 36
+        },
+        {
+          "id": "calibre-aquinas-8750e0d7701bc3f8a6b3",
+          "title": "Responsio de 43 articulis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 43
+        },
+        {
+          "id": "calibre-aquinas-b128be74626e9d7a7777",
+          "title": "Responsio de 108 articulis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 108
+        },
+        {
+          "id": "calibre-aquinas-4e0b0d729e6154e890a5",
+          "title": "Sentences Commentary (available English portions)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 46
+        },
+        {
+          "id": "calibre-aquinas-536237c6b0fc196709d6",
+          "title": "On Truth",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 298
+        },
+        {
+          "id": "calibre-aquinas-c290dc136bf440a61dc3",
+          "title": "On the Power of God",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 104
+        },
+        {
+          "id": "calibre-aquinas-d1c7ebba224ed02f7fd1",
+          "title": "On the Soul (Disputed Question)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 32
+        },
+        {
+          "id": "calibre-aquinas-3768bd5313e5510a9736",
+          "title": "On Spiritual Creatures",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 18
+        },
+        {
+          "id": "calibre-aquinas-b5c25de5bef29c57be0c",
+          "title": "On the Virtues (available English questions)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 37
+        },
+        {
+          "id": "calibre-aquinas-a1612e1e28551947cf86",
+          "title": "On the Union of the Incarnate Word",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 7
+        },
+        {
+          "id": "calibre-aquinas-881bbdc7d58f57dbc1c0",
+          "title": "Quodlibetal Questions I–II (available English portion)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 43
+        },
+        {
+          "id": "calibre-aquinas-ec85495810a672047cb7",
+          "title": "On Interpretation",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 36
+        },
+        {
+          "id": "calibre-aquinas-f1f8938983381b7728bf",
+          "title": "Posterior Analytics",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 63
+        },
+        {
+          "id": "calibre-aquinas-dbd62e58c42a75835f17",
+          "title": "Physics",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 123
+        },
+        {
+          "id": "calibre-aquinas-d2541ae548f45f95e6cd",
+          "title": "On the Heavens",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 37
+        },
+        {
+          "id": "calibre-aquinas-ec794fb6a02feca8ef3e",
+          "title": "On Generation and Corruption",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 19
+        },
+        {
+          "id": "calibre-aquinas-a20b839811a663baad40",
+          "title": "Meteorology",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 28
+        },
+        {
+          "id": "calibre-aquinas-45c9f6eea7dbe2b1d2d7",
+          "title": "On the Soul (Aristotle Commentary)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 112
+        },
+        {
+          "id": "calibre-aquinas-f14bc9d239b29ba5143d",
+          "title": "On Sense and What Is Sensed",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 21
+        },
+        {
+          "id": "calibre-aquinas-2fd2666841a5af63e8cd",
+          "title": "On Memory and Recollection",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 4
+        },
+        {
+          "id": "calibre-aquinas-5f7398dc9b97c65522f0",
+          "title": "Metaphysics",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 190
+        },
+        {
+          "id": "calibre-aquinas-ae46958aecbf5969cd47",
+          "title": "Ethics",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 158
+        },
+        {
+          "id": "calibre-aquinas-d47909143cadea3bd23d",
+          "title": "Politics (available English portion)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 9
+        },
+        {
+          "id": "calibre-aquinas-db37f5a04114ef648bbf",
+          "title": "Boethius’s De Trinitate",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 32
+        },
+        {
+          "id": "calibre-aquinas-cbf54b26278a6ad9df7c",
+          "title": "Compendium of Theology",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 259
+        },
+        {
+          "id": "calibre-aquinas-6ea83c3c3fd7a6c89507",
+          "title": "On the Principles of Nature",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-a17cf903e776bdafbfc3",
+          "title": "On Being and Essence",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 3
+        },
+        {
+          "id": "calibre-aquinas-41e0d2025b76acc9466e",
+          "title": "On Separate Substances",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 15
+        },
+        {
+          "id": "calibre-aquinas-3c9bf325395a382c488c",
+          "title": "On Kingship",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 24
+        },
+        {
+          "id": "calibre-aquinas-1c016a3f050fef518516",
+          "title": "An Apology for the Religious Orders",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 42
+        },
+        {
+          "id": "calibre-aquinas-84ac32158245e530637d",
+          "title": "On the Perfection of the Spiritual Life",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 8
+        },
+        {
+          "id": "calibre-aquinas-27650016479dd4d01c2e",
+          "title": "Refutation of Teaching that Deters from Religious Life",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 17
+        },
+        {
+          "id": "calibre-aquinas-03d1b5ffd2b411f793a3",
+          "title": "On the Unity of the Intellect against the Averroists",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 7
+        },
+        {
+          "id": "calibre-aquinas-5b3a9e71b8291ffad490",
+          "title": "On the Eternity of the World",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-aa4cd608037c0c081b42",
+          "title": "On Reasons for the Faith",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 12
+        },
+        {
+          "id": "calibre-aquinas-80f4fecb932c66bae3c4",
+          "title": "On the Articles of Faith and the Sacraments of the Church",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-22c3873c36ba9ad479d1",
+          "title": "On the Catholic Faith of the Greek Fathers",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 76
+        },
+        {
+          "id": "calibre-aquinas-45ec8360d7305c00b2e4",
+          "title": "A Letter on Credit Sales and Usury",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-47b72e1ec34b06390696",
+          "title": "On Lots",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 7
+        },
+        {
+          "id": "calibre-aquinas-3650635763cbf5646bcf",
+          "title": "Letter to Abbot Bernard",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-f8adbb57a956d4cc0e5b",
+          "title": "Letter to Margaret of Flanders",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 9
+        },
+        {
+          "id": "calibre-aquinas-e070939a821b2d24e1f6",
+          "title": "On the Blend of the Elements",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 3
+        },
+        {
+          "id": "calibre-aquinas-9704c79efed831efaee5",
+          "title": "On the Motion of the Heart",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-ca61124d182349e46967",
+          "title": "On the Hidden Activities of Nature",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-fc71be7a0fcfa18bdd44",
+          "title": "Sermons on the Apostles’ Creed",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 14
+        },
+        {
+          "id": "calibre-aquinas-cbce84ae8339b8f632a4",
+          "title": "Sermons on the Lord’s Prayer",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 4
+        },
+        {
+          "id": "calibre-aquinas-dd8edba6092350ef215c",
+          "title": "Sermons on the Commandments",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 14
+        },
+        {
+          "id": "calibre-aquinas-52abacd3253714f2e2ab",
+          "title": "Sermons on the Hail Mary",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-338a2ac7912a9268a50e",
+          "title": "Sermon: Inveni David (St. Nicholas)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-8e554044063aa2b4e57b",
+          "title": "Sermon: Beata gens (All Saints)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 3
+        },
+        {
+          "id": "calibre-aquinas-2f5401dc9404aac829b3",
+          "title": "Sermon: Attendite a falsis",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-05ba80b47ed6cc90e7f3",
+          "title": "Sermon: Emitte spiritum (Pentecost)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-60bed82ec0e26d1789aa",
+          "title": "Sermon: Puer Jesus",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-ccabfe0fbabda2a6a453",
+          "title": "Office of Corpus Christi — Sacerdos in aeternum",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 19
+        },
+        {
+          "id": "calibre-aquinas-a1831113250185f33905",
+          "title": "Devotional Prayer — Adoro te",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-a4a546dfddf85d94278c",
+          "title": "Acts of the Roman Chapters — associated documents",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 12
+        },
+        {
+          "id": "calibre-aquinas-dacc27b584a91bb33a97",
+          "title": "How to Study — ascribed to Thomas Aquinas",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-3fa44db60d06212842bb",
+          "title": "The Ways of God — ascribed to Thomas Aquinas",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-d1921760a36d16b6240f",
+          "title": "Super Epistolam ad Galatas — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 42
+        },
+        {
+          "id": "calibre-aquinas-c78326f84fca2bbd3a89",
+          "title": "Super Epistolam ad Ephesios — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 45
+        },
+        {
+          "id": "calibre-aquinas-656c7313a747b13f7783",
+          "title": "Commentary on Galatians — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 42
+        },
+        {
+          "id": "calibre-aquinas-4f14bb6f1dc3f2c383e2",
+          "title": "Commentary on Ephesians — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 46
+        },
+        {
+          "id": "calibre-aquinas-bf715e02b5b5aa993222",
+          "title": "Summa Theologiae III, 1-59 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 385
+        },
+        {
+          "id": "calibre-aquinas-2bcca3c1d76987a995d1",
+          "title": "Summa Theologiae III, 1-59 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 385
+        },
+        {
+          "id": "calibre-aquinas-f995989ccf44df6feedf",
+          "title": "Summa Theologiae I-II, 1-70 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 442
+        },
+        {
+          "id": "calibre-aquinas-4e904fcb392656124b2e",
+          "title": "Summa Theologiae I-II, 1-70 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 442
+        },
+        {
+          "id": "calibre-aquinas-8414b21a639f0bb1733f",
+          "title": "Summa Theologiae II-II, 92-189 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 519
+        },
+        {
+          "id": "calibre-aquinas-d9e2c0070d8f4b587ee8",
+          "title": "Summa Theologiae II-II, 92-189 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 519
+        },
+        {
+          "id": "calibre-aquinas-24f7a203b8cd903eb92d",
+          "title": "Summa Theologiae II-II, 1-91 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 588
+        },
+        {
+          "id": "calibre-aquinas-a7c82e52f3c23701d6f7",
+          "title": "Summa Theologiae II-II, 1-91 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 588
+        },
+        {
+          "id": "calibre-aquinas-f38c6840dcf54d9935d0",
+          "title": "Summa Theologiae III, 60-90 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 255
+        },
+        {
+          "id": "calibre-aquinas-ce1d7d1cd3dce5f51744",
+          "title": "Summa Theologiae III, 60-90 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 255
+        },
+        {
+          "id": "calibre-aquinas-8cb5504ec41208612aa3",
+          "title": "Summa Theologiae IIISup, 1-68 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 360
+        },
+        {
+          "id": "calibre-aquinas-3a013c9e77d14bf5e53e",
+          "title": "Summa Theologiae IIISup, 1-68 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 360
+        },
+        {
+          "id": "calibre-aquinas-2ede282bb270f6bff0f3",
+          "title": "Summa Theologiae I, 1-49 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 310
+        },
+        {
+          "id": "calibre-aquinas-767d279257afa2643a96",
+          "title": "Summa Theologiae I, 1-49 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 310
+        },
+        {
+          "id": "calibre-aquinas-bc95e207c032a863e711",
+          "title": "Summa Theologiae I-II, 71-114 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 298
+        },
+        {
+          "id": "calibre-aquinas-5e405ef08b62d34639dc",
+          "title": "Summa Theologiae I-II, 71-114 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 299
+        },
+        {
+          "id": "calibre-aquinas-af80b2d4faa7903396d7",
+          "title": "Commentary on the Book of Job — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 96
+        },
+        {
+          "id": "calibre-aquinas-5ece2502b9330df718e5",
+          "title": "Commentary on the Book of Job — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 99
+        },
+        {
+          "id": "calibre-aquinas-ba1889cd2f4a8f66fa7e",
+          "title": "Commentary on the Gospel of John 9-21 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 96
+        },
+        {
+          "id": "calibre-aquinas-3506fef9e498e4399b31",
+          "title": "Commentary on the Gospel of John 9-21 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 113
+        },
+        {
+          "id": "calibre-aquinas-e7c2409e3f9cf35f0e76",
+          "title": "Commentary on the Gospel of Matthew 1-12 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 77
+        },
+        {
+          "id": "calibre-aquinas-408b7faff9f77cca2373",
+          "title": "Commentary on the Gospel of Matthew 1-12 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 83
+        },
+        {
+          "id": "calibre-aquinas-5d92901f3309f6635348",
+          "title": "Commentary on the Gospel of Matthew 13-28 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 78
+        },
+        {
+          "id": "calibre-aquinas-3e112a1ed538a0a35e06",
+          "title": "Commentary on the Gospel of Matthew 13-28 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 89
+        },
+        {
+          "id": "calibre-aquinas-12eff0d28bacfafac401",
+          "title": "Commentary on the Gospel of John 1-8 — Latin (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 96
+        },
+        {
+          "id": "calibre-aquinas-d57d0eafe0647783e840",
+          "title": "Commentary on the Gospel of John 1-8 — English (Aquinas Institute edition)",
+          "author": "Thomas Aquinas",
+          "language": "english",
+          "pages": 103
+        },
+        {
+          "id": "calibre-aquinas-934cfe1cb18bf11794e0",
+          "title": "Aquinas and Cajetan — Prima Secundae 71–114 — OCR working draft",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 371
+        },
+        {
+          "id": "calibre-aquinas-8b050d16bcc0af75f911",
+          "title": "Collationes in decem praeceptis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 14
+        },
+        {
+          "id": "calibre-aquinas-8160d5f69d59f7b25e4e",
+          "title": "Expositio in orationem dominicam",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 12
+        },
+        {
+          "id": "calibre-aquinas-bcfff2cd633eb0ecdb57",
+          "title": "Expositio in Symbolum Apostolorum",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 14
+        },
+        {
+          "id": "calibre-aquinas-e5e3c5ecbd82f3ef6cae",
+          "title": "In Threnos Hieremiae — attributed commentary",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 110
+        },
+        {
+          "id": "calibre-aquinas-901f0b9bbc2adb5f190e",
+          "title": "Sermo Tria retinent — doubtful attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-084ddd7d5d904174777a",
+          "title": "Sermo Attendite a falsis",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-e87ac3b65d94624c5965",
+          "title": "Sermo Ecce Rex",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-3f3ae7e4024f27c1eb72",
+          "title": "Sermo Exiit qui seminat",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-d630725987e53cc3d138",
+          "title": "Sermo Homo quidam fecit cenam magnam",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 7
+        },
+        {
+          "id": "calibre-aquinas-54eebe87de165b02e199",
+          "title": "Sermo Osanna filio David",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
+          "id": "calibre-aquinas-0565042661e8bd5dc780",
+          "title": "Sermo Puer Jesus",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-f0c751cf3bf10e62edbd",
+          "title": "Sermo Abjiciamus opera — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-b1fe929a466170aec4cc",
+          "title": "Sermo Beata gens — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-9e8e8e1d96b8a68c2425",
+          "title": "Sermo Beati qui habitant — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-fb0fcad2dc72863455b3",
+          "title": "Sermo Beatus vir — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-d8e81e24edd5dcc1a319",
+          "title": "Sermo Coelum et terra — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 4
+        },
+        {
+          "id": "calibre-aquinas-702b9e51517b70288fec",
+          "title": "Sermo Ecce ego — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 2
+        },
+        {
+          "id": "calibre-aquinas-04fa4d315564e67df10b",
+          "title": "Sermo Germinet terra — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-2e24ed1438436d4db996",
+          "title": "Sermo Homo quidam erat dives — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 3
+        },
+        {
+          "id": "calibre-aquinas-b7d2fd12be59f09531a3",
+          "title": "Sermo Lux orta — probable attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-2e94e162eb69ede6556a",
+          "title": "Sermo Anima mea — doubtful attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 5
+        },
+        {
+          "id": "calibre-aquinas-b5ada62ba7b0bc86db5d",
+          "title": "Sermo Petite et accipietis — doubtful attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 3
+        },
+        {
+          "id": "calibre-aquinas-b6cdd4eb61127654182e",
+          "title": "Sermo Sapientia confortabit — doubtful attribution in source",
+          "author": "Thomas Aquinas",
+          "language": "latin",
+          "pages": 1
+        },
+        {
           "id": "hebrew-oshb-gen",
           "title": "Genesis · OSHB / Westminster Leningrad Codex",
           "author": "OSHB / Westminster Leningrad Codex",
@@ -4202,8 +5602,8 @@
       ]
     },
     "romantica": {
-      "works": 621,
-      "sections": 40359,
+      "works": 710,
+      "sections": 41201,
       "study_sha256": "14f4bedc90b0479df3cce75988660db52baa0db631647be89fb831a1ed407cbd",
       "books": [
         {
@@ -8552,6 +9952,629 @@
           "author": "Santa Teresa de Jesús (Teresa de Ávila)",
           "language": "spanish",
           "pages": 1079
+        },
+        {
+          "id": "irish-seadna-faf77f",
+          "title": "Séadna",
+          "author": "Peadar Ua Laoghaire",
+          "language": "irish",
+          "pages": 35
+        },
+        {
+          "id": "irish-mo-sgeal-fein-4b6f6a",
+          "title": "Mo Sgéal Féin",
+          "author": "Peadar Ua Laoghaire",
+          "language": "irish",
+          "pages": 34
+        },
+        {
+          "id": "irish-deoraidheacht-2261d5",
+          "title": "Deoraidheacht",
+          "author": "Pádraic Ó Conaire",
+          "language": "irish",
+          "pages": 29
+        },
+        {
+          "id": "irish-tir-na-n-iongantas-68b387",
+          "title": "Tír na n-Iongantas",
+          "author": "Pádraic Ó Conaire",
+          "language": "irish",
+          "pages": 39
+        },
+        {
+          "id": "irish-an-crann-geagach-0ca964",
+          "title": "An Crann Géagach",
+          "author": "Pádraic Ó Conaire",
+          "language": "irish",
+          "pages": 14
+        },
+        {
+          "id": "irish-an-mhathair-agus-sgealta-eile-f2e025",
+          "title": "An Mháthair agus Sgéalta Eile",
+          "author": "Pádraig Mac Piarais",
+          "language": "irish",
+          "pages": 7
+        },
+        {
+          "id": "irish-suantraidhe-agus-goltraidhe-b58a1a",
+          "title": "Suantraidhe agus Goltraidhe",
+          "author": "Pádraig Mac Piarais",
+          "language": "irish",
+          "pages": 13
+        },
+        {
+          "id": "irish-eachtradh-eibhlis-i-dtir-na-niongantas-4741df",
+          "title": "Eachtradh Eibhlís i dTír na nIongantas",
+          "author": "Lewis Carroll, Pádraig Ó Cadhla",
+          "language": "irish",
+          "pages": 13
+        },
+        {
+          "id": "irish-aesop-a-thainig-go-h-eirinn-6290b2",
+          "title": "Aesop a tháinig go h-Éirinn",
+          "author": "Aesop, Peadar Ua Laoghaire",
+          "language": "irish",
+          "pages": 51
+        },
+        {
+          "id": "irish-leabhar-sgeulaigheachta-f4eed4",
+          "title": "Leabhar Sgeulaigheachta",
+          "author": "Dubhghlas de hÍde",
+          "language": "irish",
+          "pages": 20
+        },
+        {
+          "id": "irish-an-t-oileanach-7b7d5b",
+          "title": "An t-Oileánach",
+          "author": "Tomás Ó Criomhthain",
+          "language": "irish",
+          "pages": 26
+        },
+        {
+          "id": "irish-cnuasacht-tragha-1028b3",
+          "title": "Cnuasacht trágha",
+          "author": "Michael Sheehan",
+          "language": "irish",
+          "pages": 13
+        },
+        {
+          "id": "irish-cno-coilleadh-craobhaighe-1316d4",
+          "title": "Cnó coilleadh craobhaighe",
+          "author": "Michael Sheehan",
+          "language": "irish",
+          "pages": 24
+        },
+        {
+          "id": "irish-an-comhgar-67d74f",
+          "title": "An Cómhgar",
+          "author": "Shán Ó Cuív",
+          "language": "irish",
+          "pages": 25
+        },
+        {
+          "id": "irish-caoimhghin-o-cearnaigh-77c90f",
+          "title": "Caoimhghin Ó Cearnaigh",
+          "author": "Liam Pádraig Ó Riain",
+          "language": "irish",
+          "pages": 27
+        },
+        {
+          "id": "irish-leabhar-na-polainne-59f474",
+          "title": "Leabhar na Polainne",
+          "author": "Adam Mickiewicz, Liam Ó Rinn",
+          "language": "irish",
+          "pages": 9
+        },
+        {
+          "id": "irish-seacht-mbuaidh-an-eirghe-amach-0f1255",
+          "title": "Seacht mBuaidh an Eirghe-amach",
+          "author": "Pádraic Ó Conaire",
+          "language": "irish",
+          "pages": 8
+        },
+        {
+          "id": "irish-na-cheithre-soisgeil-marcus-902918",
+          "title": "Marcus — Ua Laoghaire (1915)",
+          "author": "Peadar Ua Laoghaire",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-na-cheithre-soisgeil-eoin-889406",
+          "title": "Eóin — Ua Laoghaire (1915)",
+          "author": "Peadar Ua Laoghaire",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-aindrias-an-ime-13249a",
+          "title": "Áindrías an Ime",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-amhran-na-bhfiann-e189d3",
+          "title": "Amhrán na bhFiann",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-anois-teacht-an-earraigh-97d16e",
+          "title": "Anois Teacht an Earraigh",
+          "author": "Antoine Raiftearaí",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-ar-nathair-8c109a",
+          "title": "Ár nAthair",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-ardri-uasal-na-n-uile-fc9f36",
+          "title": "Ardri uasal na n-uile",
+          "author": "Anaithnid",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-bean-torrach-fa-tuar-broide-4d1478",
+          "title": "Bean Torrach, fa Tuar Broide",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-an-bonnan-bui-58b3a2",
+          "title": "An Bonnán Buí",
+          "author": "Cathal Buí Mac Giolla Ghunna",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-bunreacht-dala-eireann-a9d430",
+          "title": "Bunreacht Dála Éireann",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-caoineadh-airt-ui-laoghaire-c80a2c",
+          "title": "Caoineadh Áirt Úi Laoghaire",
+          "author": "Eibhlín Dubh Ní Chonaill",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-clar-oibre-poblacanaighe-88bcff",
+          "title": "Clár Oibre Poblacánaighe",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-eamonn-ua-ciorrthais-21ad45",
+          "title": "Éamonn Ua Ciórrthais",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-eoin-ua-miodhchan-agus-an-sionnach-74956e",
+          "title": "Eóin Ua Míodhchán agus an Sionnach",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-faisneis-neamhspleadhchuis-c15384",
+          "title": "Faisnéis Neamhspleádhchuis",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-fainne-geal-an-lae-0238ba",
+          "title": "Fáinne Geal an Lae",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-gniomhartha-na-n-aspol-795e13",
+          "title": "Gníomhartha na n-Aspol",
+          "author": "Peadar Ua Laoghaire",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-inghean-an-cheannaidhe-85268b",
+          "title": "Inghean an Cheannaidhe",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-is-scith-mo-chrob-on-scribainn-47bf58",
+          "title": "Is Scíth Mo Chrob ón Scríbainn",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-leadairt-na-bhfear-mor-75f0a6",
+          "title": "Leadairt na bhfear mór",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-m-anam-do-sgar-riomsa-a-raoir-59cbab",
+          "title": "M'anam do Sgar Riomsa A-raoir",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-mac-ghniomhartha-bhriain-f96a81",
+          "title": "Mac-ghníomhartha Bhriain",
+          "author": "Tomás Bán Ua Concheanainn",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-mairg-nach-fuil-na-dhubhthuata-3158ac",
+          "title": "Mairg nach fuil 'na dhubhthuata",
+          "author": "Dáibhi Ó Bruadair",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-mise-raifteiri-an-file-425b67",
+          "title": "Mise Raifteirí an File",
+          "author": "Antoine Raiftearaí",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-mise-eire-dfd810",
+          "title": "Mise Éire",
+          "author": "Pádraig Mac Piarais",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-mna-na-heireann-10e3dc",
+          "title": "Mná na hÉireann",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-mo-ghra-go-daingean-tu-12cd57",
+          "title": "Mo ghrá go daingean tú!",
+          "author": "Eibhlín Dubh Ní Chonaill",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-an-ri-nach-robh-le-faghail-bhais-c60f42",
+          "title": "An rí nach robh le fagháil bháis",
+          "author": "Peadar Mac Fionnlaoigh",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-roisin-dubh-cd52bd",
+          "title": "Róisín Dubh",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-sceal-ghiolla-na-gcochall-craicionn-9d651c",
+          "title": "Scéal Ghiolla na gCochall Craicionn",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-sceal-o-dhail-eireann-chum-saor-naisiun-an-domhain-5ccc12",
+          "title": "Scéal ó Dháil Éireann chum Saor-Náisiún an Domhain",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-seanfhocla-riddles-catches-901d66",
+          "title": "Seanfhocla, Riddles, Catches",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-na-tri-daill-agus-an-chevalier-i-mbaile-atha-cliath-2976b4",
+          "title": "Na trí daill agus an Chevalier i mBaile-átha-clíath",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-an-lon-dubh-ba7457",
+          "title": "An Lon Dubh",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-pangur-ban-624b0a",
+          "title": "Pangur Bán",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-scel-lem-duib-dccd0f",
+          "title": "Scél Lem Dúib",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-tain-bo-cuailnge-742236",
+          "title": "Táin Bó Cúailnge",
+          "author": "Anonymous / traditional; see source",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-irish-minstrelsy-irish-poems-9e6561",
+          "title": "Irish Minstrelsy — Irish poems",
+          "author": "Fear Flatha Ó Gnímh",
+          "language": "irish",
+          "pages": 16
+        },
+        {
+          "id": "irish-niamh-7a1f52",
+          "title": "Niamh",
+          "author": "Peadar Ua Laoghaire",
+          "language": "irish",
+          "pages": 61
+        },
+        {
+          "id": "irish-scoil-ghaedhealach-leabhrain-an-irisleabhair-iii-2833df",
+          "title": "Scoil Ghaedhealach — Leabhráin an Irisleabhair III",
+          "author": "Conán Maol, Beirt Fhear, Pádraig Ó Duinnín, Gruagach an Tobair",
+          "language": "irish",
+          "pages": 15
+        },
+        {
+          "id": "irish-le-hais-na-teineadh-six-irish-originals-ac24dd",
+          "title": "Le hAis na Teineadh — six Irish originals",
+          "author": "Dubhghlas de hÍde / Douglas Hyde",
+          "language": "irish",
+          "pages": 6
+        },
+        {
+          "id": "irish-maidean-i-mbearra-agus-danta-eile-74d733",
+          "title": "Maidean i mBéarra agus dánta eile",
+          "author": "Osborn Bergin (Crádh Croidhe Éigeas)",
+          "language": "irish",
+          "pages": 24
+        },
+        {
+          "id": "irish-cormac-ua-conaill-3e06bb",
+          "title": "Cormac Ua Conaill",
+          "author": "Pádraig Ó Duinnín",
+          "language": "irish",
+          "pages": 17
+        },
+        {
+          "id": "irish-aodh-o-neill-7ddc76",
+          "title": "Aodh Ó Néill",
+          "author": "Pádraig Ó Séaghdha (Conán Maol)",
+          "language": "irish",
+          "pages": 11
+        },
+        {
+          "id": "irish-pratai-mhichil-thaidhg-a73ceb",
+          "title": "Prátaí Mhíchíl Thaidhg",
+          "author": "Séamus Ó Dubhghaill (Beirt Fhear), 1855–1929",
+          "language": "irish",
+          "pages": 8
+        },
+        {
+          "id": "irish-nt-01",
+          "title": "Maitiú — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 28
+        },
+        {
+          "id": "irish-nt-02",
+          "title": "Marcas — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 16
+        },
+        {
+          "id": "irish-nt-03",
+          "title": "Lúcás — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 24
+        },
+        {
+          "id": "irish-nt-04",
+          "title": "Eoin — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 21
+        },
+        {
+          "id": "irish-nt-05",
+          "title": "Gníomhartha na nAspal — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 28
+        },
+        {
+          "id": "irish-nt-06",
+          "title": "Rómhánaigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 16
+        },
+        {
+          "id": "irish-nt-07",
+          "title": "1 Corantaigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 16
+        },
+        {
+          "id": "irish-nt-08",
+          "title": "2 Corantaigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 13
+        },
+        {
+          "id": "irish-nt-09",
+          "title": "Galataigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 6
+        },
+        {
+          "id": "irish-nt-10",
+          "title": "Eifisigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 6
+        },
+        {
+          "id": "irish-nt-11",
+          "title": "Filipigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 4
+        },
+        {
+          "id": "irish-nt-12",
+          "title": "Colosaigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 4
+        },
+        {
+          "id": "irish-nt-13",
+          "title": "1 Teasalónaigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 5
+        },
+        {
+          "id": "irish-nt-14",
+          "title": "2 Teasalónaigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 3
+        },
+        {
+          "id": "irish-nt-15",
+          "title": "1 Tiomóid — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 6
+        },
+        {
+          "id": "irish-nt-16",
+          "title": "2 Tiomóid — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 4
+        },
+        {
+          "id": "irish-nt-17",
+          "title": "Títeas — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 3
+        },
+        {
+          "id": "irish-nt-18",
+          "title": "Fileamón — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-nt-19",
+          "title": "Eabhraigh — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 13
+        },
+        {
+          "id": "irish-nt-20",
+          "title": "Séamas — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 5
+        },
+        {
+          "id": "irish-nt-21",
+          "title": "1 Peadar — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 5
+        },
+        {
+          "id": "irish-nt-22",
+          "title": "2 Peadar — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 3
+        },
+        {
+          "id": "irish-nt-23",
+          "title": "1 Eoin — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 5
+        },
+        {
+          "id": "irish-nt-24",
+          "title": "2 Eoin — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-nt-25",
+          "title": "3 Eoin — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-nt-26",
+          "title": "Iúdás — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 1
+        },
+        {
+          "id": "irish-nt-27",
+          "title": "Apacailipsis — Tiomna Nua (1602/1817)",
+          "author": "Uilliam Ó Domhnaill / William O’Domhnuill and collaborators",
+          "language": "irish",
+          "pages": 22
         }
       ]
     }

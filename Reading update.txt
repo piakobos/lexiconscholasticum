@@ -1,3 +1,15 @@
+Thomas Aquinas from Calibre — 9 November 2026
+200 new separate books and editions: 130 Latin and 70 English; 17,187 reading sections. Collections are split into individual works and sermons, with chapters/questions/articles retained as navigation.
+All 78 Aquinas-related Calibre records were audited. Duplicate merged volumes and duplicate OCR drafts are represented once; one metadata-only record has no ebook file and its works are covered by separate saved volumes. Partial translations, attributed works and the uncorrected Aquinas/Cajetan OCR draft remain clearly labelled.
+The six existing Aquinas shelf entries, their IDs and personal progress remain intact. Original Calibre files and all personal databases are excluded from the update. Source text and edition notices are included in editions/scholastic/licenses/Aquinas.
+English translations have a separate reading shelf; search, navigation, highlights and progress work normally. English text does not trigger Latin word lookups. No executable/runtime update was required.
+
+Irish / Gaeilge added to Romantica — 8 November 2026
+63,243 offline entries across Wiktionary Irish, Dinneen 1904, both FreeDict directions and labelled Connacht learner notes; 339,009 indexed forms.
+89 Irish shelf items, 842 sections: complete Séadna, Mo Sgéal Féin, stories, poetry, medieval works, all 27 Ó Domhnaill New Testament books, and complete Ua Laoghaire Mark, John and Acts. Historical language and source gaps are labelled.
+A 13-part Irish grammar reference, fada controls, mutation-aware reading lookups, and links to Teanglann, Foclóir and eDIL are included. Source notices and reusable dictionary source files are in editions/romantica/licenses/Irish.
+Irish is available in Romantica only. Existing languages, quizzes, shared libraries and personal progress are preserved.
+
 READING UPDATE — 25 OCTOBER 2026
 Four latest additions included: two Hebrew references, Familia Romana (35 cleaned chapters), and Roma Aeterna (separate XXXVI/LVI selection). Total: 599 Scholasticum + 621 Romantica = 1,220 reading entries. Existing personal copies and progress are retained on upgrade.
 

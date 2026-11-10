@@ -1,3 +1,6 @@
+WINDOWS STARTUP UPDATE - 2 NOVEMBER 2026
+Extract the complete Windows ZIP and open Start Lexicon.cmd inside its app folder. It checks the bundled runtime and prerequisites. See Windows startup help.txt; failure reports are in %LOCALAPPDATA%/Lexicon Scholasticum.
+
 STORAGE UPDATE - 29 OCTOBER 2026
 
 The current packages use stronger lossless ZIP compression and omit redundant frontend copies. All shared dictionaries and 1,220 reading entries are retained. On Windows, close the extracted app and run Optimize storage.cmd from its folder to reduce disk usage further. Run the app normally afterwards. Personal libraries and saved progress are stored separately.

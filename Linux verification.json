@@ -1,20 +1,22 @@
 {
   "platform": "Linux x86-64",
-  "date": "2026-10-29",
+  "date": "2026-11-09",
   "archive": "Lexicon Scholasticum Linux x86_64.zip",
-  "sha256": "0a05eb835e6776e57cf104ecd5492a17b3d86cd73d3bc462b2bd6e67da36d910",
-  "bytes": 1889057511,
-  "shared_files": 6799,
-  "reading_entries": 1220,
+  "sha256": "8f229d92a8a134699c9ce3ebaecebb135e413e8a7362d132ecc32bb04050dd23",
+  "bytes": 1949939923,
+  "added_or_replaced": 20,
+  "retained_raw_records": 11013,
+  "runtime_and_undeclared_members_unchanged": true,
   "verified": [
+    "maintained platform validator",
     "ZIP CRC",
-    "shared payload identity",
-    "ELF architecture",
-    "executable modes",
-    "runtime SHA-256",
-    "Python syntax",
-    "inventory"
+    "replacement SHA-256",
+    "untouched local-record SHA-256 and permissions",
+    "replacement DEFLATE level 9"
   ],
+  "shared_files": 6847,
+  "reading_entries": 1509,
+  "aquinas_works": 200,
   "linux_launch_tested": false,
   "requirements": "glibc >= 2.34; graphical X11/XWayland desktop; system libraries from setup-system.sh"
 }

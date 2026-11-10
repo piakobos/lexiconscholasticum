@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-02",
+  "reported_remote_failure_reproduced": false,
+  "original_zip_fresh_state_native_launch": "passed",
+  "fixed_zip_native_launch": "passed",
+  "without_python_on_path_and_invalid_python_environment": "passed",
+  "failure_tests": {
+    "early_gui_import_error_logged": true,
+    "read_only_program_folder_not_used_for_error_log": true,
+    "incomplete_zip_detected_before_python": true
+  },
+  "all_1220_reading_works_retained": true,
+  "packages": [
+    {
+      "platform": "windows",
+      "name": "Lexicon Scholasticum Windows.zip",
+      "bytes": 1604018118,
+      "sha256": "2c4ac8d5e0786b24e0dc9654daddc8ecc719c9972c4df3c16b128da769661329",
+      "unchanged_members_preserved": 6806
+    },
+    {
+      "platform": "mac",
+      "name": "Lexicon Scholasticum Mac.zip",
+      "bytes": 1645412788,
+      "sha256": "5790e710b385de53edc7c54f56e47c5e8e4283b925429366f33ae7d367bbebf0",
+      "unchanged_members_preserved": 7054
+    },
+    {
+      "platform": "linux",
+      "name": "Lexicon Scholasticum Linux x86_64.zip",
+      "bytes": 1890688648,
+      "sha256": "13d3cae434a6aedb4c93efb129f928107be665e591d7647eb1cc66932308582e",
+      "unchanged_members_preserved": 10986
+    }
+  ],
+  "mac_native_launch_tested": false,
+  "linux_native_launch_tested": false,
+  "fixes": [
+    "GUI/backend imports covered by startup exception handler",
+    "Writable per-user startup-error.txt; original errors no longer masked by read-only program folder",
+    "Windows pre-Python native DLL/standard library/WebView2/.NET checks",
+    "Start Lexicon.cmd clears conflicting Python environment for its child process"
+  ]
+}
