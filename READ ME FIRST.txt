@@ -1,16 +1,32 @@
+LEXICON SCHOLASTICUM - CURRENT DELIVERY
+
+The current library has 1,509 reading entries: 799 in Lexicon Scholasticum
+and 710 in Bibliotheca Romana. Library contents.json lists the works.
+Reading update.txt describes the latest additions, including the Latin
+Summa Theologiae Supplementum.
+
+On Windows, extract the entire ZIP and open Start Lexicon.cmd inside the
+Lexicon Scholasticum folder. Allow about 9.6 GB for extraction and another
+3.9 GB in your Windows user account for the working dictionaries on a
+fresh setup. About 16 GB free is a practical starting point if you keep
+the ZIP, extracted app and working dictionaries on the same drive.
+
+RELEASE HISTORY
+The counts below refer to the releases listed by date.
+
 WINDOWS STARTUP UPDATE - 2 NOVEMBER 2026
 Extract the complete Windows ZIP and open Start Lexicon.cmd inside its app folder. It checks the bundled runtime and prerequisites. See Windows startup help.txt; failure reports are in %LOCALAPPDATA%/Lexicon Scholasticum.
 
 STORAGE UPDATE - 29 OCTOBER 2026
 
-The current packages use stronger lossless ZIP compression and omit redundant frontend copies. All shared dictionaries and 1,220 reading entries are retained. On Windows, close the extracted app and run Optimize storage.cmd from its folder to reduce disk usage further. Run the app normally afterwards. Personal libraries and saved progress are stored separately.
+That release used stronger lossless ZIP compression and omitted redundant frontend copies. It retained all shared dictionaries and 1,220 reading entries. On Windows, close the extracted app and run Optimize storage.cmd from its folder to reduce disk usage further. Run the app normally afterwards. Personal libraries and saved progress are stored separately.
 
 LINUX DELIVERY — 27 OCTOBER 2026
 
-Lexicon Scholasticum Linux x86_64.zip is now available alongside Windows and Mac. It includes the same 1,220 reading entries, bundled Python/Qt desktop runtime, system-library setup and a per-user application-menu icon installer. Requires x86-64 Linux with glibc 2.34+ (e.g. Ubuntu 22.04+, Debian 12+). See Linux instructions.txt. Linux launch testing has not been performed on this Windows machine.
+Lexicon Scholasticum Linux x86_64.zip joined the Windows and Mac downloads. The October release included 1,220 reading entries, bundled Python/Qt desktop runtime, system-library setup and a per-user application-menu icon installer. Requires x86-64 Linux with glibc 2.34+ (e.g. Ubuntu 22.04+, Debian 12+). See Linux instructions.txt. Linux launch testing has not been performed on this Windows machine.
 
 READING UPDATE — 25 OCTOBER 2026
-Four latest additions included: two Hebrew references, Familia Romana (35 cleaned chapters), and Roma Aeterna (separate XXXVI/LVI selection). Total: 599 Scholasticum + 621 Romantica = 1,220 reading entries. Existing personal copies and progress are retained on upgrade.
+That release added two Hebrew references, Familia Romana (35 cleaned chapters), and Roma Aeterna (separate XXXVI/LVI selection). Total: 599 Scholasticum + 621 Romantica = 1,220 reading entries. Existing personal copies and progress are retained on upgrade.
 
 ENGLISH SOUND QUIZ — 24 OCTOBER 2026
 Open Quiz → English sounds. Write English sounds using plain Greek or pointed Hebrew. Existing verb quizzes remain in place. See Reading update.txt for details.
@@ -18,15 +34,15 @@ Open Quiz → English sounds. Write English sounds using plain Greek or pointed 
 HEBREW ADDITION — 23 OCTOBER 2026
 Three offline Hebrew dictionaries, concise grammar and vowels, and 200 Hebrew reading entries have been added. See Reading update.txt for editions and instructions. Existing libraries and personal data are preserved.
 
-NEW: Vulgate, Septuagint, Greek New Testament and 42 Perseus Latin works/collections. Open Reading and search a title or author. Scripture has book/chapter menus and verse numbers. Restart the app to load the new library.
+Earlier reading additions included the Vulgate, Septuagint, Greek New Testament and 42 Perseus Latin works/collections. Open Reading and search a title or author. Scripture has book/chapter menus and verse numbers. Restart the app to load the new library.
 
-NEW: Select reading text to save a highlight and optional note. Use My highlights to review, search, edit or return to saved passages. Restart the app to load this update. Highlights and notes stay in your personal library and are not included in sharing ZIPs.
+Highlights: Select reading text to save a highlight and optional note. Use My highlights to review, search, edit or return to saved passages. Restart the app to load this update. Highlights and notes stay in your personal library and are not included in sharing ZIPs.
 
-NEW: Perfect-passive verb charts and saved Wiktionary noun declensions.
+Earlier dictionary additions included perfect-passive verb charts and saved Wiktionary noun declensions.
 Restart the app to load these changes.
 
-NEW: Search this work searches the full text of an open book in either edition.
-The packages contain all 1,016 current reading entries, including Scripture, 42 new Perseus Latin works/collections and the 15 previously local-only books.
+Search this work searches the full text of an open book in either edition.
+That October release contained 1,016 reading entries, including Scripture, 42 new Perseus Latin works/collections and the 15 previously local-only books.
 See Library contents.json for the complete list.
 
 LEXICON SCHOLASTICUM - WINDOWS AND MAC
@@ -39,16 +55,16 @@ on any page in either edition. The choice is shared and remembered.
 Study pages include subtle illuminated manuscript ornaments and refined typography.
 Restart the app to load the updated interface.
 
-One app includes both Lexicon Scholasticum and Romantica Lingua.
-Click the L at the upper left to switch to Romantica; click R to return.
-Romantica contains 621 shared reading entries, including 32 Spanish books and
+One app includes both Lexicon Scholasticum and Bibliotheca Romana.
+Click the L seal to open Bibliotheca Romana. Click the keys-and-tiara seal to return.
+On 20 October, Bibliotheca Romana contained 621 shared reading entries, including 32 Spanish books and
 collections by Santa Teresa de Ávila and San Juan de la Cruz. Select Spanish
 and search Teresa or Juan de la Cruz. Books, poems, letters and minor works
 are included, with searchable chapter navigation. Historical editions are
 labelled and may retain scan/OCR errors.
-Lexicon includes 129 shared Latin entries, with 104 additional Latin Library
+That release included 129 shared Latin entries, with 104 additional Latin Library
 works and all nine Ovid works available from that collection.
-The Greek collection now has 205 entries, including 167 new texts:
+The Greek collection reached 205 entries, including 167 new texts:
 Demosthenes, the other Attic orators, Thucydides, Theocritus and Theophrastus.
 Find these in Greek · Classics; search by author or English title.
 Use Book or part, Section or poem, and Find a section to navigate.
@@ -60,9 +76,9 @@ You only need the ZIP for the recipient's computer. Copy the ZIP to the recipien
 
 WINDOWS
 Extract Lexicon Scholasticum Windows.zip. Keep the entire extracted
-Lexicon Scholasticum folder together and open Lexicon Scholasticum.exe.
-Microsoft Edge WebView2 Runtime is required; it is normally present on
-Windows. No separate Python installation is needed.
+Lexicon Scholasticum folder together and open Start Lexicon.cmd. It checks
+Microsoft Edge WebView2 Runtime, .NET Framework 4.x and the bundled files.
+No separate Python installation is needed. See Windows startup help.txt.
 
 MAC
 Extract Lexicon Scholasticum Mac.zip. Move Lexicon Scholasticum.app into
@@ -88,5 +104,5 @@ Click outside the pane, click X, or press Escape to close it.
 
 SHA256SUMS.txt records the verified package hashes.
 
-A separate portable delivery is prepared at D:\Lexicon Portable - 2026-10-17.
+The 17 October release also had a separate local USB copy at D:\Lexicon Portable - 2026-10-17.
 See START HERE.txt there for running Windows or sharing with Windows/Mac users.

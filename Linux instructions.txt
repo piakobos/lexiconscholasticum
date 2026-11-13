@@ -4,7 +4,7 @@ LEXICON SCHOLASTICUM — LINUX x86-64
 For ordinary 64-bit Intel/AMD Linux desktop computers. Requires glibc 2.34 or newer
 (for example Ubuntu 22.04+, Debian 12+, current Fedora or Arch). Not for Raspberry
 Pi/ARM, Alpine/musl, or 32-bit systems. Python, pywebview and Qt WebEngine are bundled.
-The library is the same 1,220-entry shared collection as the Windows/Mac packages.
+The package includes the same shared reading collection as Windows and Mac.
 
 FIRST INSTALL — FIVE STEPS
 1. Extract the whole ZIP into a permanent folder in your home directory.
@@ -16,7 +16,8 @@ FIRST INSTALL — FIVE STEPS
    This creates an application-menu icon for your account. Do not move the folder
    afterwards; if you move it, run install.sh again from its new location.
 5. Open Lexicon Scholasticum from the application menu. Pin/favourite the icon
-   using your desktop's normal dock/taskbar menu. Click L for Romantica and R to return.
+   using your desktop's normal dock/taskbar menu. Click the L seal to open Bibliotheca Romana.
+   Click the keys-and-tiara seal to return.
 
 You can also launch directly with: sh run.sh
 First launch extracts the bundled Python into your user cache and prepares writable
@@ -31,7 +32,7 @@ book additions are imported on first launch without replacing personal copies.
 
 PERSONAL DATA AND LOGS
 Scholasticum: ${XDG_DATA_HOME:-~/.local/share}/lexicon-scholasticum
-Romantica:    ${XDG_DATA_HOME:-~/.local/share}/romantica-lingua-lexicon
+Bibliotheca Romana: ${XDG_DATA_HOME:-~/.local/share}/romantica-lingua-lexicon
 Python cache: ${XDG_CACHE_HOME:-~/.cache}/lexicon-scholasticum
 Startup errors: ${XDG_STATE_HOME:-~/.local/state}/lexicon-scholasticum/startup-error.txt
 Desktop icon: ${XDG_DATA_HOME:-~/.local/share}/applications/org.lexiconscholasticum.desktop

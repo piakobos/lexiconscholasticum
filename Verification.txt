@@ -242,3 +242,26 @@ Reading audit: 799 Scholasticum + 710 Romantica = 1,509 works. All three final Z
 fffceffe2c16302fdae6c898290c2aee0542f1d92ab4ea9ac12cdfb180dcaf66  Lexicon Scholasticum Windows.zip
 7439cd4ec61d18182af9906613f4b40a3aa147ac51b5b6115e128275d45e6564  Lexicon Scholasticum Mac.zip
 8f229d92a8a134699c9ce3ebaecebb135e413e8a7362d132ecc32bb04050dd23  Lexicon Scholasticum Linux x86_64.zip
+
+
+THOMAS AQUINAS CONCISE HEADINGS - 10 NOVEMBER 2026
+Applied concise Aquinas.cc-style work/book, lectio/question/article and topic labels across all 206 Aquinas readings (21,343 sections), updating 21,103 section labels. Example: Ethics IX · Lect. 11 — Why a Happy Man Needs Friends. Compact captions have a 100-character ceiling; full source titles are available in reader tooltips. Unmatched or untitled divisions retain source references, and OCR drafts retain conservative scan/page labels. Public index metadata is attributed to Aquinas.cc.
+Updated all 30 original Calibre EPUB files in place after verifying an exact-original backup ZIP. Independent proof confirms the unedited body, footnotes, identifiers, links/anchors, spine, manifest and archive ordering were preserved; only recorded heading text/style slots and one dc:source attribution per EPUB changed. Both merged volumes and OCR drafts were included. Other 85 format files and the Calibre database are unchanged.
+The reader keeps existing body text, blocks, IDs, order and source positions. Existing six personal Aquinas books receive labels through a display overlay without private database changes. Source collections, progress/notes, original shared libraries, executable and runtimes passed preservation checks.
+Browser validation passed for all 206 books and 395 distinct first/final section boundaries, both Ethics editions and continuation, navigation/search labels, existing personal copies, isolated progress/highlights, missing-metadata fallback, unrelated Latin/Greek/Hebrew and Irish reading, and 12 light/dark desktop/tablet/mobile views. Existing two-edition dictionary/grammar/quiz/reading appearance and theme-sync regressions passed with no page errors.
+Reading audit: 799 Scholasticum + 710 Romantica = 1,509 works. All three final ZIPs passed maintained platform validators, full integrity and asset checks. Undeclared archive records, permissions and runtimes are preserved byte for byte. Replacement entries use DEFLATE level 9. No new Mac/Linux native launch test was performed on this Windows host.
+Original EPUB backup: C:\Users\James\Documents\New project\scholastic_lexicon\Aquinas additions\Backups\Calibre EPUBs before concise headings - 2026-11-10.zip
+App rollback backup: C:\Users\James\Documents\New project\scholastic_lexicon\Aquinas additions\Backups\App before concise headings - 2026-11-10.zip
+2dd236b8931098a659c27229ccd58951ceb3a05e19a3238b5264ea7678c8208b  Lexicon Scholasticum Windows.zip
+92aa96d17a64dc74a333c5ff7d6a6cb94530d69978073881589d806027e34bde  Lexicon Scholasticum Mac.zip
+60eb3050722124c0eddf93d85453e46491e7c45674234df7136b65e4aef7de7b  Lexicon Scholasticum Linux x86_64.zip
+
+
+LATIN SUMMA THEOLOGIAE SUPPLEMENTUM - 12 NOVEMBER 2026
+Appended Latin Supplementum questions 1–99 and both appendices after Part III in the existing Latin Summa. All 446 main articles and 10 appendix articles were included. The source’s 4,644 paragraphs were checked against the imported text. The reader has 2,413 sections, including the original 1,856 at their prior positions.
+Fresh seeds and guarded updates to existing copies passed. Earlier sections, saved progress and highlights were preserved in isolated testing. The browser opened the first Supplement question from Part III, navigated to Question 99 and Appendix II, and saved progress there.
+Updated Calibre’s Latin Summa EPUB in place after verifying its original backup. All earlier body content, navigation targets, spine locations, bookmarks and identifiers were preserved. The Calibre database was unchanged.
+All three ZIPs passed platform archive checks. The Windows launcher and Mac/Linux launcher sources include the guarded app update. Existing runtime files and unrelated ZIP entries were preserved. No native Mac/Linux launch test was performed.
+ede717cdedce375fd6af4fa6eb5a2992183b2d6ff45fa3447e50471dc9d38a91  Lexicon Scholasticum Windows.zip
+bba1f347f98e7c59f9074b68f053d1fd92ef266aa7e6476a7b5828f34536f29f  Lexicon Scholasticum Mac.zip
+67de95d3a1a790bb3e9ee5d0850c362c0a140a11539d96f02c908d772f9bce22  Lexicon Scholasticum Linux x86_64.zip

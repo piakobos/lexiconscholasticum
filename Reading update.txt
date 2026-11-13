@@ -1,3 +1,12 @@
+Latin Summa Theologiae — Supplementum (12 November 2026)
+The consolidated Latin Summa now continues after Part III with all 99 questions of the Supplementum and both appendices. The reader preserves the book ID and existing page positions. Existing copies receive the new sections when Lexicon starts.
+
+Concise Aquinas section headings —10November2026
+All206Thomas reading entries now have compact work/book/lecture or question/article labels, with descriptive Aquinas.cc subjects where the public index provides them. Full source headings remain available as tooltips.
+Example: Ethics IX · Lect.11 — Why a Happy Man Needs Friends. Source-only prefaces, ascribed works and draft scan pages retain accurate references without guessed topics.
+All21,343section positions, book IDs, original prose, display blocks and saved progress remain intact. Existing installed personal copies receive the headings through a navigation overlay; no personal database rows are replaced.
+Calibre EPUB heading updates are applied separately to30original EPUBs, with verified exact originals retained in the Aquinas additions/Backups folder. KEPUB,AZW3andMOBI formats are unchanged.
+
 Thomas Aquinas from Calibre — 9 November 2026
 200 new separate books and editions: 130 Latin and 70 English; 17,187 reading sections. Collections are split into individual works and sermons, with chapters/questions/articles retained as navigation.
 All 78 Aquinas-related Calibre records were audited. Duplicate merged volumes and duplicate OCR drafts are represented once; one metadata-only record has no ebook file and its works are covered by separate saved volumes. Partial translations, attributed works and the uncorrected Aquinas/Cajetan OCR draft remain clearly labelled.

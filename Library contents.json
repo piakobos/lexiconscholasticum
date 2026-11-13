@@ -1,9 +1,9 @@
 {
-  "release": "2026.11.09.aquinas",
+  "release": "2026.11.12.supplementum",
   "editions": {
     "scholastic": {
       "works": 799,
-      "sections": 72884,
+      "sections": 73441,
       "study_sha256": "4632ca022eebe9512e4b78167cb66a77c9c7264bd090c2faa909c08be1aa40d8",
       "books": [
         {
@@ -5527,7 +5527,7 @@
           "title": "Summa Theologiae",
           "author": "Thomas Aquinas",
           "language": "latin",
-          "pages": 1856
+          "pages": 2413
         },
         {
           "id": "user-calibre-656ff023f03ecfff72ac",
